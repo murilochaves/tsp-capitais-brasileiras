@@ -1,0 +1,756 @@
+{"0_1": {"address_a": "Uberlândia, MG", "address_b": "Aracaju, SE", "time": "26 h", "distance": "1.808 km"}}
+{"0_2": {"address_a": "Uberlândia, MG", "address_b": "Belém, PA", "time": "33 h", "distance": "2.305 km"}}
+{"0_3": {"address_a": "Uberlândia, MG", "address_b": "Belo Horizonte, MG", "time": "7 h 33 min", "distance": "536 km"}}
+{"0_4": {"address_a": "Uberlândia, MG", "address_b": "Boa Vista, RR", "time": "59 h", "distance": "4.165 km"}}
+{"0_5": {"address_a": "Uberlândia, MG", "address_b": "Brasília, DF", "time": "5 h 35 min", "distance": "422 km"}}
+{"0_6": {"address_a": "Uberlândia, MG", "address_b": "Campo Grande, MS", "time": "9 h 45 min", "distance": "760 km"}}
+{"0_7": {"address_a": "Uberlândia, MG", "address_b": "Cuiabá, MT", "time": "14 h", "distance": "1.034 km"}}
+{"0_8": {"address_a": "Uberlândia, MG", "address_b": "Curitiba, PR", "time": "12 h 14 min", "distance": "981 km"}}
+{"0_9": {"address_a": "Uberlândia, MG", "address_b": "Florianópolis, SC", "time": "15 h 45 min", "distance": "1.261 km"}}
+{"0_10": {"address_a": "Uberlândia, MG", "address_b": "Fortaleza, CE", "time": "32 h", "distance": "2.505 km"}}
+{"0_11": {"address_a": "Uberlândia, MG", "address_b": "Goiânia, GO", "time": "4 h 34 min", "distance": "337 km"}}
+{"0_12": {"address_a": "Uberlândia, MG", "address_b": "João Pessoa, PB", "time": "35 h", "distance": "2.404 km"}}
+{"0_13": {"address_a": "Uberlândia, MG", "address_b": "Macapá, AP", "time": "57 h", "distance": "2.815 km"}}
+{"0_14": {"address_a": "Uberlândia, MG", "address_b": "Maceió, AL", "time": "30 h", "distance": "2.062 km"}}
+{"0_15": {"address_a": "Uberlândia, MG", "address_b": "Manaus, AM", "time": "49 h", "distance": "3.380 km"}}
+{"0_16": {"address_a": "Uberlândia, MG", "address_b": "Natal, RN", "time": "37 h", "distance": "2.575 km"}}
+{"0_17": {"address_a": "Uberlândia, MG", "address_b": "Palmas, TO", "time": "15 h 5 min", "distance": "1.229 km"}}
+{"0_18": {"address_a": "Uberlândia, MG", "address_b": "Porto Alegre, RS", "time": "20 h 38 min", "distance": "1.697 km"}}
+{"0_19": {"address_a": "Uberlândia, MG", "address_b": "Porto Velho, RO", "time": "34 h", "distance": "2.492 km"}}
+{"0_20": {"address_a": "Uberlândia, MG", "address_b": "Recife, PE", "time": "33 h", "distance": "2.291 km"}}
+{"0_21": {"address_a": "Uberlândia, MG", "address_b": "Rio Branco, AC", "time": "40 h", "distance": "2.998 km"}}
+{"0_22": {"address_a": "Uberlândia, MG", "address_b": "Rio de Janeiro, RJ", "time": "12 h 39 min", "distance": "989 km"}}
+{"0_23": {"address_a": "Uberlândia, MG", "address_b": "Salvador, BA", "time": "22 h 57 min", "distance": "1.614 km"}}
+{"0_24": {"address_a": "Uberlândia, MG", "address_b": "São Luís, MA", "time": "33 h", "distance": "2.413 km"}}
+{"0_25": {"address_a": "Uberlândia, MG", "address_b": "São Paulo, SP", "time": "7 h 2 min", "distance": "588 km"}}
+{"0_26": {"address_a": "Uberlândia, MG", "address_b": "Teresina, PI", "time": "27 h", "distance": "2.067 km"}}
+{"0_27": {"address_a": "Uberlândia, MG", "address_b": "Vitória, ES", "time": "15 h 41 min", "distance": "1.048 km"}}
+{"1_0": {"address_a": "Aracaju, SE", "address_b": "Uberlândia, MG", "time": "25 h", "distance": "1.810 km"}}
+{"1_2": {"address_a": "Aracaju, SE", "address_b": "Belém, PA", "time": "29 h", "distance": "2.024 km"}}
+{"1_3": {"address_a": "Aracaju, SE", "address_b": "Belo Horizonte, MG", "time": "23 h 7 min", "distance": "1.543 km"}}
+{"1_4": {"address_a": "Aracaju, SE", "address_b": "Boa Vista, RR", "time": "80 h", "distance": "5.344 km"}}
+{"1_5": {"address_a": "Aracaju, SE", "address_b": "Brasília, DF", "time": "21 h 12 min", "distance": "1.639 km"}}
+{"1_6": {"address_a": "Aracaju, SE", "address_b": "Campo Grande, MS", "time": "35 h", "distance": "2.680 km"}}
+{"1_7": {"address_a": "Aracaju, SE", "address_b": "Cuiabá, MT", "time": "35 h", "distance": "2.699 km"}}
+{"1_8": {"address_a": "Aracaju, SE", "address_b": "Curitiba, PR", "time": "36 h", "distance": "2.581 km"}}
+{"1_9": {"address_a": "Aracaju, SE", "address_b": "Florianópolis, SC", "time": "40 h", "distance": "2.862 km"}}
+{"1_10": {"address_a": "Aracaju, SE", "address_b": "Fortaleza, CE", "time": "14 h 50 min", "distance": "1.099 km"}}
+{"1_11": {"address_a": "Aracaju, SE", "address_b": "Goiânia, GO", "time": "24 h", "distance": "1.840 km"}}
+{"1_12": {"address_a": "Aracaju, SE", "address_b": "João Pessoa, PB", "time": "8 h 58 min", "distance": "613 km"}}
+{"1_13": {"address_a": "Aracaju, SE", "address_b": "Macapá, AP", "time": "53 h", "distance": "2.536 km"}}
+{"1_14": {"address_a": "Aracaju, SE", "address_b": "Maceió, AL", "time": "4 h 2 min", "distance": "272 km"}}
+{"1_15": {"address_a": "Aracaju, SE", "address_b": "Manaus, AM", "time": "70 h", "distance": "4.562 km"}}
+{"1_16": {"address_a": "Aracaju, SE", "address_b": "Natal, RN", "time": "11 h 9 min", "distance": "784 km"}}
+{"1_17": {"address_a": "Aracaju, SE", "address_b": "Palmas, TO", "time": "21 h 52 min", "distance": "1.633 km"}}
+{"1_18": {"address_a": "Aracaju, SE", "address_b": "Porto Alegre, RS", "time": "44 h", "distance": "3.297 km"}}
+{"1_19": {"address_a": "Aracaju, SE", "address_b": "Porto Velho, RO", "time": "55 h", "distance": "4.152 km"}}
+{"1_20": {"address_a": "Aracaju, SE", "address_b": "Recife, PE", "time": "7 h 18 min", "distance": "500 km"}}
+{"1_21": {"address_a": "Aracaju, SE", "address_b": "Rio Branco, AC", "time": "61 h", "distance": "4.657 km"}}
+{"1_22": {"address_a": "Aracaju, SE", "address_b": "Rio de Janeiro, RJ", "time": "27 h", "distance": "1.828 km"}}
+{"1_23": {"address_a": "Aracaju, SE", "address_b": "Salvador, BA", "time": "5 h 14 min", "distance": "328 km"}}
+{"1_24": {"address_a": "Aracaju, SE", "address_b": "São Luís, MA", "time": "22 h 3 min", "distance": "1.553 km"}}
+{"1_25": {"address_a": "Aracaju, SE", "address_b": "São Paulo, SP", "time": "30 h", "distance": "2.161 km"}}
+{"1_26": {"address_a": "Aracaju, SE", "address_b": "Teresina, PI", "time": "15 h 15 min", "distance": "1.117 km"}}
+{"1_27": {"address_a": "Aracaju, SE", "address_b": "Vitória, ES", "time": "20 h 38 min", "distance": "1.371 km"}}
+{"2_0": {"address_a": "Belém, PA", "address_b": "Uberlândia, MG", "time": "31 h", "distance": "2.304 km"}}
+{"2_1": {"address_a": "Belém, PA", "address_b": "Aracaju, SE", "time": "28 h", "distance": "2.025 km"}}
+{"2_3": {"address_a": "Belém, PA", "address_b": "Belo Horizonte, MG", "time": "37 h", "distance": "2.680 km"}}
+{"2_4": {"address_a": "Belém, PA", "address_b": "Boa Vista, RR", "time": "61 h", "distance": "3.843 km"}}
+{"2_5": {"address_a": "Belém, PA", "address_b": "Brasília, DF", "time": "27 h", "distance": "1.952 km"}}
+{"2_6": {"address_a": "Belém, PA", "address_b": "Campo Grande, MS", "time": "37 h", "distance": "2.859 km"}}
+{"2_7": {"address_a": "Belém, PA", "address_b": "Cuiabá, MT", "time": "35 h", "distance": "2.394 km"}}
+{"2_8": {"address_a": "Belém, PA", "address_b": "Curitiba, PR", "time": "43 h", "distance": "3.288 km"}}
+{"2_9": {"address_a": "Belém, PA", "address_b": "Florianópolis, SC", "time": "47 h", "distance": "3.569 km"}}
+{"2_10": {"address_a": "Belém, PA", "address_b": "Fortaleza, CE", "time": "21 h 46 min", "distance": "1.512 km"}}
+{"2_11": {"address_a": "Belém, PA", "address_b": "Goiânia, GO", "time": "27 h", "distance": "1.968 km"}}
+{"2_12": {"address_a": "Belém, PA", "address_b": "João Pessoa, PB", "time": "30 h", "distance": "2.096 km"}}
+{"2_13": {"address_a": "Belém, PA", "address_b": "Macapá, AP", "time": "25 h", "distance": "529 km"}}
+{"2_14": {"address_a": "Belém, PA", "address_b": "Maceió, AL", "time": "30 h", "distance": "2.045 km"}}
+{"2_15": {"address_a": "Belém, PA", "address_b": "Manaus, AM", "time": "51 h", "distance": "3.061 km"}}
+{"2_16": {"address_a": "Belém, PA", "address_b": "Natal, RN", "time": "29 h", "distance": "2.026 km"}}
+{"2_17": {"address_a": "Belém, PA", "address_b": "Palmas, TO", "time": "17 h 6 min", "distance": "1.207 km"}}
+{"2_18": {"address_a": "Belém, PA", "address_b": "Porto Alegre, RS", "time": "52 h", "distance": "4.004 km"}}
+{"2_19": {"address_a": "Belém, PA", "address_b": "Porto Velho, RO", "time": "40 h", "distance": "2.569 km"}}
+{"2_20": {"address_a": "Belém, PA", "address_b": "Recife, PE", "time": "30 h", "distance": "2.035 km"}}
+{"2_21": {"address_a": "Belém, PA", "address_b": "Rio Branco, AC", "time": "47 h", "distance": "3.077 km"}}
+{"2_22": {"address_a": "Belém, PA", "address_b": "Rio de Janeiro, RJ", "time": "42 h", "distance": "3.178 km"}}
+{"2_23": {"address_a": "Belém, PA", "address_b": "Salvador, BA", "time": "30 h", "distance": "2.059 km"}}
+{"2_24": {"address_a": "Belém, PA", "address_b": "São Luís, MA", "time": "10 h 15 min", "distance": "576 km"}}
+{"2_25": {"address_a": "Belém, PA", "address_b": "São Paulo, SP", "time": "39 h", "distance": "2.895 km"}}
+{"2_26": {"address_a": "Belém, PA", "address_b": "Teresina, PI", "time": "13 h 26 min", "distance": "909 km"}}
+{"2_27": {"address_a": "Belém, PA", "address_b": "Vitória, ES", "time": "44 h", "distance": "3.220 km"}}
+{"3_0": {"address_a": "Belo Horizonte, MG", "address_b": "Uberlândia, MG", "time": "7 h 10 min", "distance": "537 km"}}
+{"3_1": {"address_a": "Belo Horizonte, MG", "address_b": "Aracaju, SE", "time": "23 h 4 min", "distance": "1.598 km"}}
+{"3_2": {"address_a": "Belo Horizonte, MG", "address_b": "Belém, PA", "time": "37 h", "distance": "2.746 km"}}
+{"3_4": {"address_a": "Belo Horizonte, MG", "address_b": "Boa Vista, RR", "time": "65 h", "distance": "4.698 km"}}
+{"3_5": {"address_a": "Belo Horizonte, MG", "address_b": "Brasília, DF", "time": "9 h 24 min", "distance": "733 km"}}
+{"3_6": {"address_a": "Belo Horizonte, MG", "address_b": "Campo Grande, MS", "time": "16 h 10 min", "distance": "1.261 km"}}
+{"3_7": {"address_a": "Belo Horizonte, MG", "address_b": "Cuiabá, MT", "time": "20 h 50 min", "distance": "1.570 km"}}
+{"3_8": {"address_a": "Belo Horizonte, MG", "address_b": "Curitiba, PR", "time": "13 h", "distance": "991 km"}}
+{"3_9": {"address_a": "Belo Horizonte, MG", "address_b": "Florianópolis, SC", "time": "16 h 39 min", "distance": "1.272 km"}}
+{"3_10": {"address_a": "Belo Horizonte, MG", "address_b": "Fortaleza, CE", "time": "33 h", "distance": "2.324 km"}}
+{"3_11": {"address_a": "Belo Horizonte, MG", "address_b": "Goiânia, GO", "time": "11 h 26 min", "distance": "865 km"}}
+{"3_12": {"address_a": "Belo Horizonte, MG", "address_b": "João Pessoa, PB", "time": "32 h", "distance": "2.194 km"}}
+{"3_13": {"address_a": "Belo Horizonte, MG", "address_b": "Macapá, AP", "time": "60 h", "distance": "3.257 km"}}
+{"3_14": {"address_a": "Belo Horizonte, MG", "address_b": "Maceió, AL", "time": "27 h", "distance": "1.852 km"}}
+{"3_15": {"address_a": "Belo Horizonte, MG", "address_b": "Manaus, AM", "time": "56 h", "distance": "3.916 km"}}
+{"3_16": {"address_a": "Belo Horizonte, MG", "address_b": "Natal, RN", "time": "34 h", "distance": "2.365 km"}}
+{"3_17": {"address_a": "Belo Horizonte, MG", "address_b": "Palmas, TO", "time": "18 h 45 min", "distance": "1.540 km"}}
+{"3_18": {"address_a": "Belo Horizonte, MG", "address_b": "Porto Alegre, RS", "time": "21 h 29 min", "distance": "1.720 km"}}
+{"3_19": {"address_a": "Belo Horizonte, MG", "address_b": "Porto Velho, RO", "time": "41 h", "distance": "3.028 km"}}
+{"3_20": {"address_a": "Belo Horizonte, MG", "address_b": "Recife, PE", "time": "30 h", "distance": "2.081 km"}}
+{"3_21": {"address_a": "Belo Horizonte, MG", "address_b": "Rio Branco, AC", "time": "47 h", "distance": "3.533 km"}}
+{"3_22": {"address_a": "Belo Horizonte, MG", "address_b": "Rio de Janeiro, RJ", "time": "6 h 18 min", "distance": "441 km"}}
+{"3_23": {"address_a": "Belo Horizonte, MG", "address_b": "Salvador, BA", "time": "19 h 55 min", "distance": "1.404 km"}}
+{"3_24": {"address_a": "Belo Horizonte, MG", "address_b": "São Luís, MA", "time": "35 h", "distance": "2.645 km"}}
+{"3_25": {"address_a": "Belo Horizonte, MG", "address_b": "São Paulo, SP", "time": "7 h 34 min", "distance": "584 km"}}
+{"3_26": {"address_a": "Belo Horizonte, MG", "address_b": "Teresina, PI", "time": "29 h", "distance": "2.029 km"}}
+{"3_27": {"address_a": "Belo Horizonte, MG", "address_b": "Vitória, ES", "time": "8 h 18 min", "distance": "515 km"}}
+{"4_0": {"address_a": "Boa Vista, RR", "address_b": "Uberlândia, MG", "time": "58 h", "distance": "4.169 km"}}
+{"4_1": {"address_a": "Boa Vista, RR", "address_b": "Aracaju, SE", "time": "80 h", "distance": "5.345 km"}}
+{"4_2": {"address_a": "Boa Vista, RR", "address_b": "Belém, PA", "time": "61 h", "distance": "3.845 km"}}
+{"4_3": {"address_a": "Boa Vista, RR", "address_b": "Belo Horizonte, MG", "time": "66 h", "distance": "4.705 km"}}
+{"4_5": {"address_a": "Boa Vista, RR", "address_b": "Brasília, DF", "time": "58 h", "distance": "4.194 km"}}
+{"4_6": {"address_a": "Boa Vista, RR", "address_b": "Campo Grande, MS", "time": "53 h", "distance": "3.836 km"}}
+{"4_7": {"address_a": "Boa Vista, RR", "address_b": "Cuiabá, MT", "time": "44 h", "distance": "3.131 km"}}
+{"4_8": {"address_a": "Boa Vista, RR", "address_b": "Curitiba, PR", "time": "66 h", "distance": "4.804 km"}}
+{"4_9": {"address_a": "Boa Vista, RR", "address_b": "Florianópolis, SC", "time": "70 h", "distance": "5.108 km"}}
+{"4_10": {"address_a": "Boa Vista, RR", "address_b": "Fortaleza, CE", "time": "76 h", "distance": "4.954 km"}}
+{"4_11": {"address_a": "Boa Vista, RR", "address_b": "Goiânia, GO", "time": "55 h", "distance": "4.014 km"}}
+{"4_12": {"address_a": "Boa Vista, RR", "address_b": "João Pessoa, PB", "time": "83 h", "distance": "5.457 km"}}
+{"4_13": {"address_a": "Boa Vista, RR", "address_b": "Macapá, AP", "time": "34 h", "distance": "2.270 km"}}
+{"4_14": {"address_a": "Boa Vista, RR", "address_b": "Maceió, AL", "time": "82 h", "distance": "5.533 km"}}
+{"4_15": {"address_a": "Boa Vista, RR", "address_b": "Manaus, AM", "time": "9 h 47 min", "distance": "782 km"}}
+{"4_16": {"address_a": "Boa Vista, RR", "address_b": "Natal, RN", "time": "82 h", "distance": "5.420 km"}}
+{"4_17": {"address_a": "Boa Vista, RR", "address_b": "Palmas, TO", "time": "61 h", "distance": "4.426 km"}}
+{"4_18": {"address_a": "Boa Vista, RR", "address_b": "Porto Alegre, RS", "time": "74 h", "distance": "5.252 km"}}
+{"4_19": {"address_a": "Boa Vista, RR", "address_b": "Porto Velho, RO", "time": "25 h", "distance": "1.670 km"}}
+{"4_20": {"address_a": "Boa Vista, RR", "address_b": "Recife, PE", "time": "82 h", "distance": "5.397 km"}}
+{"4_21": {"address_a": "Boa Vista, RR", "address_b": "Rio Branco, AC", "time": "31 h", "distance": "2.178 km"}}
+{"4_22": {"address_a": "Boa Vista, RR", "address_b": "Rio de Janeiro, RJ", "time": "69 h", "distance": "5.066 km"}}
+{"4_23": {"address_a": "Boa Vista, RR", "address_b": "Salvador, BA", "time": "76 h", "distance": "5.630 km"}}
+{"4_24": {"address_a": "Boa Vista, RR", "address_b": "São Luís, MA", "time": "67 h", "distance": "4.321 km"}}
+{"4_25": {"address_a": "Boa Vista, RR", "address_b": "São Paulo, SP", "time": "65 h", "distance": "4.664 km"}}
+{"4_26": {"address_a": "Boa Vista, RR", "address_b": "Teresina, PI", "time": "67 h", "distance": "4.353 km"}}
+{"4_27": {"address_a": "Boa Vista, RR", "address_b": "Vitória, ES", "time": "75 h", "distance": "5.216 km"}}
+{"5_0": {"address_a": "Brasília, DF", "address_b": "Uberlândia, MG", "time": "6 h 8 min", "distance": "435 km"}}
+{"5_1": {"address_a": "Brasília, DF", "address_b": "Aracaju, SE", "time": "21 h 23 min", "distance": "1.639 km"}}
+{"5_2": {"address_a": "Brasília, DF", "address_b": "Belém, PA", "time": "28 h", "distance": "1.969 km"}}
+{"5_3": {"address_a": "Brasília, DF", "address_b": "Belo Horizonte, MG", "time": "9 h 29 min", "distance": "741 km"}}
+{"5_4": {"address_a": "Brasília, DF", "address_b": "Boa Vista, RR", "time": "58 h", "distance": "4.192 km"}}
+{"5_6": {"address_a": "Brasília, DF", "address_b": "Campo Grande, MS", "time": "13 h 15 min", "distance": "1.047 km"}}
+{"5_7": {"address_a": "Brasília, DF", "address_b": "Cuiabá, MT", "time": "13 h 57 min", "distance": "1.070 km"}}
+{"5_8": {"address_a": "Brasília, DF", "address_b": "Curitiba, PR", "time": "17 h 40 min", "distance": "1.414 km"}}
+{"5_9": {"address_a": "Brasília, DF", "address_b": "Florianópolis, SC", "time": "21 h 25 min", "distance": "1.694 km"}}
+{"5_10": {"address_a": "Brasília, DF", "address_b": "Fortaleza, CE", "time": "27 h", "distance": "2.116 km"}}
+{"5_11": {"address_a": "Brasília, DF", "address_b": "Goiânia, GO", "time": "2 h 55 min", "distance": "208 km"}}
+{"5_12": {"address_a": "Brasília, DF", "address_b": "João Pessoa, PB", "time": "30 h", "distance": "2.234 km"}}
+{"5_13": {"address_a": "Brasília, DF", "address_b": "Macapá, AP", "time": "52 h", "distance": "2.480 km"}}
+{"5_14": {"address_a": "Brasília, DF", "address_b": "Maceió, AL", "time": "25 h", "distance": "1.892 km"}}
+{"5_15": {"address_a": "Brasília, DF", "address_b": "Manaus, AM", "time": "48 h", "distance": "3.410 km"}}
+{"5_16": {"address_a": "Brasília, DF", "address_b": "Natal, RN", "time": "32 h", "distance": "2.405 km"}}
+{"5_17": {"address_a": "Brasília, DF", "address_b": "Palmas, TO", "time": "10 h 4 min", "distance": "843 km"}}
+{"5_18": {"address_a": "Brasília, DF", "address_b": "Porto Alegre, RS", "time": "26 h", "distance": "2.129 km"}}
+{"5_19": {"address_a": "Brasília, DF", "address_b": "Porto Velho, RO", "time": "33 h", "distance": "2.522 km"}}
+{"5_20": {"address_a": "Brasília, DF", "address_b": "Recife, PE", "time": "28 h", "distance": "2.121 km"}}
+{"5_21": {"address_a": "Brasília, DF", "address_b": "Rio Branco, AC", "time": "40 h", "distance": "3.028 km"}}
+{"5_22": {"address_a": "Brasília, DF", "address_b": "Rio de Janeiro, RJ", "time": "15 h 11 min", "distance": "1.167 km"}}
+{"5_23": {"address_a": "Brasília, DF", "address_b": "Salvador, BA", "time": "18 h 19 min", "distance": "1.445 km"}}
+{"5_24": {"address_a": "Brasília, DF", "address_b": "São Luís, MA", "time": "28 h", "distance": "2.025 km"}}
+{"5_25": {"address_a": "Brasília, DF", "address_b": "São Paulo, SP", "time": "13 h 22 min", "distance": "1.021 km"}}
+{"5_26": {"address_a": "Brasília, DF", "address_b": "Teresina, PI", "time": "21 h 28 min", "distance": "1.679 km"}}
+{"5_27": {"address_a": "Brasília, DF", "address_b": "Vitória, ES", "time": "17 h 41 min", "distance": "1.245 km"}}
+{"6_0": {"address_a": "Campo Grande, MS", "address_b": "Uberlândia, MG", "time": "9 h 51 min", "distance": "763 km"}}
+{"6_1": {"address_a": "Campo Grande, MS", "address_b": "Aracaju, SE", "time": "35 h", "distance": "2.679 km"}}
+{"6_2": {"address_a": "Campo Grande, MS", "address_b": "Belém, PA", "time": "38 h", "distance": "2.864 km"}}
+{"6_3": {"address_a": "Campo Grande, MS", "address_b": "Belo Horizonte, MG", "time": "16 h 29 min", "distance": "1.261 km"}}
+{"6_4": {"address_a": "Campo Grande, MS", "address_b": "Boa Vista, RR", "time": "54 h", "distance": "3.834 km"}}
+{"6_5": {"address_a": "Campo Grande, MS", "address_b": "Brasília, DF", "time": "13 h 14 min", "distance": "1.046 km"}}
+{"6_7": {"address_a": "Campo Grande, MS", "address_b": "Cuiabá, MT", "time": "9 h 27 min", "distance": "703 km"}}
+{"6_8": {"address_a": "Campo Grande, MS", "address_b": "Curitiba, PR", "time": "12 h 17 min", "distance": "976 km"}}
+{"6_9": {"address_a": "Campo Grande, MS", "address_b": "Florianópolis, SC", "time": "16 h 21 min", "distance": "1.280 km"}}
+{"6_10": {"address_a": "Campo Grande, MS", "address_b": "Fortaleza, CE", "time": "40 h", "distance": "3.157 km"}}
+{"6_11": {"address_a": "Campo Grande, MS", "address_b": "Goiânia, GO", "time": "10 h 19 min", "distance": "839 km"}}
+{"6_12": {"address_a": "Campo Grande, MS", "address_b": "João Pessoa, PB", "time": "43 h", "distance": "3.275 km"}}
+{"6_13": {"address_a": "Campo Grande, MS", "address_b": "Macapá, AP", "time": "62 h", "distance": "3.375 km"}}
+{"6_14": {"address_a": "Campo Grande, MS", "address_b": "Maceió, AL", "time": "38 h", "distance": "2.933 km"}}
+{"6_15": {"address_a": "Campo Grande, MS", "address_b": "Manaus, AM", "time": "44 h", "distance": "3.051 km"}}
+{"6_16": {"address_a": "Campo Grande, MS", "address_b": "Natal, RN", "time": "45 h", "distance": "3.446 km"}}
+{"6_17": {"address_a": "Campo Grande, MS", "address_b": "Palmas, TO", "time": "20 h 45 min", "distance": "1.720 km"}}
+{"6_18": {"address_a": "Campo Grande, MS", "address_b": "Porto Alegre, RS", "time": "20 h 3 min", "distance": "1.423 km"}}
+{"6_19": {"address_a": "Campo Grande, MS", "address_b": "Porto Velho, RO", "time": "29 h", "distance": "2.164 km"}}
+{"6_20": {"address_a": "Campo Grande, MS", "address_b": "Recife, PE", "time": "41 h", "distance": "3.162 km"}}
+{"6_21": {"address_a": "Campo Grande, MS", "address_b": "Rio Branco, AC", "time": "35 h", "distance": "2.669 km"}}
+{"6_22": {"address_a": "Campo Grande, MS", "address_b": "Rio de Janeiro, RJ", "time": "17 h 11 min", "distance": "1.410 km"}}
+{"6_23": {"address_a": "Campo Grande, MS", "address_b": "Salvador, BA", "time": "32 h", "distance": "2.485 km"}}
+{"6_24": {"address_a": "Campo Grande, MS", "address_b": "São Luís, MA", "time": "39 h", "distance": "2.905 km"}}
+{"6_25": {"address_a": "Campo Grande, MS", "address_b": "São Paulo, SP", "time": "12 h 2 min", "distance": "984 km"}}
+{"6_26": {"address_a": "Campo Grande, MS", "address_b": "Teresina, PI", "time": "35 h", "distance": "2.719 km"}}
+{"6_27": {"address_a": "Campo Grande, MS", "address_b": "Vitória, ES", "time": "25 h", "distance": "1.932 km"}}
+{"7_0": {"address_a": "Cuiabá, MT", "address_b": "Uberlândia, MG", "time": "14 h 6 min", "distance": "1.040 km"}}
+{"7_1": {"address_a": "Cuiabá, MT", "address_b": "Aracaju, SE", "time": "35 h", "distance": "2.707 km"}}
+{"7_2": {"address_a": "Cuiabá, MT", "address_b": "Belém, PA", "time": "36 h", "distance": "2.405 km"}}
+{"7_3": {"address_a": "Cuiabá, MT", "address_b": "Belo Horizonte, MG", "time": "21 h 25 min", "distance": "1.576 km"}}
+{"7_4": {"address_a": "Cuiabá, MT", "address_b": "Boa Vista, RR", "time": "44 h", "distance": "3.129 km"}}
+{"7_5": {"address_a": "Cuiabá, MT", "address_b": "Brasília, DF", "time": "13 h 55 min", "distance": "1.073 km"}}
+{"7_6": {"address_a": "Cuiabá, MT", "address_b": "Campo Grande, MS", "time": "9 h 51 min", "distance": "707 km"}}
+{"7_8": {"address_a": "Cuiabá, MT", "address_b": "Curitiba, PR", "time": "21 h 53 min", "distance": "1.675 km"}}
+{"7_9": {"address_a": "Cuiabá, MT", "address_b": "Florianópolis, SC", "time": "26 h", "distance": "1.979 km"}}
+{"7_10": {"address_a": "Cuiabá, MT", "address_b": "Fortaleza, CE", "time": "41 h", "distance": "3.186 km"}}
+{"7_11": {"address_a": "Cuiabá, MT", "address_b": "Goiânia, GO", "time": "11 h 35 min", "distance": "893 km"}}
+{"7_12": {"address_a": "Cuiabá, MT", "address_b": "João Pessoa, PB", "time": "44 h", "distance": "3.303 km"}}
+{"7_13": {"address_a": "Cuiabá, MT", "address_b": "Macapá, AP", "time": "60 h", "distance": "2.916 km"}}
+{"7_14": {"address_a": "Cuiabá, MT", "address_b": "Maceió, AL", "time": "39 h", "distance": "2.961 km"}}
+{"7_15": {"address_a": "Cuiabá, MT", "address_b": "Manaus, AM", "time": "35 h", "distance": "2.347 km"}}
+{"7_16": {"address_a": "Cuiabá, MT", "address_b": "Natal, RN", "time": "46 h", "distance": "3.474 km"}}
+{"7_17": {"address_a": "Cuiabá, MT", "address_b": "Palmas, TO", "time": "18 h 46 min", "distance": "1.536 km"}}
+{"7_18": {"address_a": "Cuiabá, MT", "address_b": "Porto Alegre, RS", "time": "30 h", "distance": "2.122 km"}}
+{"7_19": {"address_a": "Cuiabá, MT", "address_b": "Porto Velho, RO", "time": "19 h 39 min", "distance": "1.460 km"}}
+{"7_20": {"address_a": "Cuiabá, MT", "address_b": "Recife, PE", "time": "42 h", "distance": "3.191 km"}}
+{"7_21": {"address_a": "Cuiabá, MT", "address_b": "Rio Branco, AC", "time": "26 h", "distance": "1.964 km"}}
+{"7_22": {"address_a": "Cuiabá, MT", "address_b": "Rio de Janeiro, RJ", "time": "25 h", "distance": "1.937 km"}}
+{"7_23": {"address_a": "Cuiabá, MT", "address_b": "Salvador, BA", "time": "32 h", "distance": "2.513 km"}}
+{"7_24": {"address_a": "Cuiabá, MT", "address_b": "São Luís, MA", "time": "36 h", "distance": "2.721 km"}}
+{"7_25": {"address_a": "Cuiabá, MT", "address_b": "São Paulo, SP", "time": "19 h 57 min", "distance": "1.535 km"}}
+{"7_26": {"address_a": "Cuiabá, MT", "address_b": "Teresina, PI", "time": "33 h", "distance": "2.578 km"}}
+{"7_27": {"address_a": "Cuiabá, MT", "address_b": "Vitória, ES", "time": "30 h", "distance": "2.087 km"}}
+{"8_0": {"address_a": "Curitiba, PR", "address_b": "Uberlândia, MG", "time": "12 h 11 min", "distance": "976 km"}}
+{"8_1": {"address_a": "Curitiba, PR", "address_b": "Aracaju, SE", "time": "36 h", "distance": "2.565 km"}}
+{"8_2": {"address_a": "Curitiba, PR", "address_b": "Belém, PA", "time": "45 h", "distance": "3.282 km"}}
+{"8_3": {"address_a": "Curitiba, PR", "address_b": "Belo Horizonte, MG", "time": "13 h 9 min", "distance": "984 km"}}
+{"8_4": {"address_a": "Curitiba, PR", "address_b": "Boa Vista, RR", "time": "66 h", "distance": "4.799 km"}}
+{"8_5": {"address_a": "Curitiba, PR", "address_b": "Brasília, DF", "time": "17 h 11 min", "distance": "1.392 km"}}
+{"8_6": {"address_a": "Curitiba, PR", "address_b": "Campo Grande, MS", "time": "12 h 14 min", "distance": "974 km"}}
+{"8_7": {"address_a": "Curitiba, PR", "address_b": "Cuiabá, MT", "time": "21 h 2 min", "distance": "1.669 km"}}
+{"8_9": {"address_a": "Curitiba, PR", "address_b": "Florianópolis, SC", "time": "4 h 1 min", "distance": "308 km"}}
+{"8_10": {"address_a": "Curitiba, PR", "address_b": "Fortaleza, CE", "time": "44 h", "distance": "3.475 km"}}
+{"8_11": {"address_a": "Curitiba, PR", "address_b": "Goiânia, GO", "time": "16 h 22 min", "distance": "1.294 km"}}
+{"8_12": {"address_a": "Curitiba, PR", "address_b": "João Pessoa, PB", "time": "44 h", "distance": "3.155 km"}}
+{"8_13": {"address_a": "Curitiba, PR", "address_b": "Macapá, AP", "time": "69 h", "distance": "3.793 km"}}
+{"8_14": {"address_a": "Curitiba, PR", "address_b": "Maceió, AL", "time": "39 h", "distance": "2.813 km"}}
+{"8_15": {"address_a": "Curitiba, PR", "address_b": "Manaus, AM", "time": "56 h", "distance": "4.017 km"}}
+{"8_16": {"address_a": "Curitiba, PR", "address_b": "Natal, RN", "time": "46 h", "distance": "3.326 km"}}
+{"8_17": {"address_a": "Curitiba, PR", "address_b": "Palmas, TO", "time": "27 h", "distance": "2.199 km"}}
+{"8_18": {"address_a": "Curitiba, PR", "address_b": "Porto Alegre, RS", "time": "8 h 58 min", "distance": "743 km"}}
+{"8_19": {"address_a": "Curitiba, PR", "address_b": "Porto Velho, RO", "time": "41 h", "distance": "3.129 km"}}
+{"8_20": {"address_a": "Curitiba, PR", "address_b": "Recife, PE", "time": "42 h", "distance": "3.043 km"}}
+{"8_21": {"address_a": "Curitiba, PR", "address_b": "Rio Branco, AC", "time": "47 h", "distance": "3.634 km"}}
+{"8_22": {"address_a": "Curitiba, PR", "address_b": "Rio de Janeiro, RJ", "time": "11 h 37 min", "distance": "846 km"}}
+{"8_23": {"address_a": "Curitiba, PR", "address_b": "Salvador, BA", "time": "32 h", "distance": "2.372 km"}}
+{"8_24": {"address_a": "Curitiba, PR", "address_b": "São Luís, MA", "time": "45 h", "distance": "3.383 km"}}
+{"8_25": {"address_a": "Curitiba, PR", "address_b": "São Paulo, SP", "time": "5 h 43 min", "distance": "408 km"}}
+{"8_26": {"address_a": "Curitiba, PR", "address_b": "Teresina, PI", "time": "38 h", "distance": "3.037 km"}}
+{"8_27": {"address_a": "Curitiba, PR", "address_b": "Vitória, ES", "time": "18 h 40 min", "distance": "1.368 km"}}
+{"9_0": {"address_a": "Florianópolis, SC", "address_b": "Uberlândia, MG", "time": "15 h 12 min", "distance": "1.263 km"}}
+{"9_1": {"address_a": "Florianópolis, SC", "address_b": "Aracaju, SE", "time": "38 h", "distance": "2.846 km"}}
+{"9_2": {"address_a": "Florianópolis, SC", "address_b": "Belém, PA", "time": "47 h", "distance": "3.591 km"}}
+{"9_3": {"address_a": "Florianópolis, SC", "address_b": "Belo Horizonte, MG", "time": "15 h 59 min", "distance": "1.271 km"}}
+{"9_4": {"address_a": "Florianópolis, SC", "address_b": "Boa Vista, RR", "time": "69 h", "distance": "5.104 km"}}
+{"9_5": {"address_a": "Florianópolis, SC", "address_b": "Brasília, DF", "time": "20 h 9 min", "distance": "1.678 km"}}
+{"9_6": {"address_a": "Florianópolis, SC", "address_b": "Campo Grande, MS", "time": "15 h 54 min", "distance": "1.279 km"}}
+{"9_7": {"address_a": "Florianópolis, SC", "address_b": "Cuiabá, MT", "time": "25 h", "distance": "1.974 km"}}
+{"9_8": {"address_a": "Florianópolis, SC", "address_b": "Curitiba, PR", "time": "4 h 1 min", "distance": "306 km"}}
+{"9_10": {"address_a": "Florianópolis, SC", "address_b": "Fortaleza, CE", "time": "47 h", "distance": "3.762 km"}}
+{"9_11": {"address_a": "Florianópolis, SC", "address_b": "Goiânia, GO", "time": "19 h 23 min", "distance": "1.600 km"}}
+{"9_12": {"address_a": "Florianópolis, SC", "address_b": "João Pessoa, PB", "time": "46 h", "distance": "3.442 km"}}
+{"9_13": {"address_a": "Florianópolis, SC", "address_b": "Macapá, AP", "time": "71 h", "distance": "4.080 km"}}
+{"9_14": {"address_a": "Florianópolis, SC", "address_b": "Maceió, AL", "time": "41 h", "distance": "3.100 km"}}
+{"9_15": {"address_a": "Florianópolis, SC", "address_b": "Manaus, AM", "time": "60 h", "distance": "4.322 km"}}
+{"9_16": {"address_a": "Florianópolis, SC", "address_b": "Natal, RN", "time": "48 h", "distance": "3.613 km"}}
+{"9_17": {"address_a": "Florianópolis, SC", "address_b": "Palmas, TO", "time": "30 h", "distance": "2.485 km"}}
+{"9_18": {"address_a": "Florianópolis, SC", "address_b": "Porto Alegre, RS", "time": "5 h 30 min", "distance": "463 km"}}
+{"9_19": {"address_a": "Florianópolis, SC", "address_b": "Porto Velho, RO", "time": "44 h", "distance": "3.434 km"}}
+{"9_20": {"address_a": "Florianópolis, SC", "address_b": "Recife, PE", "time": "45 h", "distance": "3.329 km"}}
+{"9_21": {"address_a": "Florianópolis, SC", "address_b": "Rio Branco, AC", "time": "51 h", "distance": "3.939 km"}}
+{"9_22": {"address_a": "Florianópolis, SC", "address_b": "Rio de Janeiro, RJ", "time": "14 h 33 min", "distance": "1.134 km"}}
+{"9_23": {"address_a": "Florianópolis, SC", "address_b": "Salvador, BA", "time": "35 h", "distance": "2.652 km"}}
+{"9_24": {"address_a": "Florianópolis, SC", "address_b": "São Luís, MA", "time": "48 h", "distance": "3.589 km"}}
+{"9_25": {"address_a": "Florianópolis, SC", "address_b": "São Paulo, SP", "time": "9 h 5 min", "distance": "694 km"}}
+{"9_26": {"address_a": "Florianópolis, SC", "address_b": "Teresina, PI", "time": "41 h", "distance": "3.324 km"}}
+{"9_27": {"address_a": "Florianópolis, SC", "address_b": "Vitória, ES", "time": "22 h 2 min", "distance": "1.654 km"}}
+{"10_0": {"address_a": "Fortaleza, CE", "address_b": "Uberlândia, MG", "time": "32 h", "distance": "2.540 km"}}
+{"10_1": {"address_a": "Fortaleza, CE", "address_b": "Aracaju, SE", "time": "14 h 39 min", "distance": "1.101 km"}}
+{"10_2": {"address_a": "Fortaleza, CE", "address_b": "Belém, PA", "time": "22 h 3 min", "distance": "1.512 km"}}
+{"10_3": {"address_a": "Fortaleza, CE", "address_b": "Belo Horizonte, MG", "time": "33 h", "distance": "2.298 km"}}
+{"10_4": {"address_a": "Fortaleza, CE", "address_b": "Boa Vista, RR", "time": "75 h", "distance": "4.993 km"}}
+{"10_5": {"address_a": "Fortaleza, CE", "address_b": "Brasília, DF", "time": "27 h", "distance": "2.117 km"}}
+{"10_6": {"address_a": "Fortaleza, CE", "address_b": "Campo Grande, MS", "time": "40 h", "distance": "3.158 km"}}
+{"10_7": {"address_a": "Fortaleza, CE", "address_b": "Cuiabá, MT", "time": "40 h", "distance": "3.178 km"}}
+{"10_8": {"address_a": "Fortaleza, CE", "address_b": "Curitiba, PR", "time": "44 h", "distance": "3.492 km"}}
+{"10_9": {"address_a": "Fortaleza, CE", "address_b": "Florianópolis, SC", "time": "48 h", "distance": "3.773 km"}}
+{"10_11": {"address_a": "Fortaleza, CE", "address_b": "Goiânia, GO", "time": "30 h", "distance": "2.319 km"}}
+{"10_12": {"address_a": "Fortaleza, CE", "address_b": "João Pessoa, PB", "time": "9 h 12 min", "distance": "682 km"}}
+{"10_13": {"address_a": "Fortaleza, CE", "address_b": "Macapá, AP", "time": "46 h", "distance": "2.023 km"}}
+{"10_14": {"address_a": "Fortaleza, CE", "address_b": "Maceió, AL", "time": "13 h 29 min", "distance": "949 km"}}
+{"10_15": {"address_a": "Fortaleza, CE", "address_b": "Manaus, AM", "time": "65 h", "distance": "4.210 km"}}
+{"10_16": {"address_a": "Fortaleza, CE", "address_b": "Natal, RN", "time": "7 h 24 min", "distance": "533 km"}}
+{"10_17": {"address_a": "Fortaleza, CE", "address_b": "Palmas, TO", "time": "23 h 17 min", "distance": "1.728 km"}}
+{"10_18": {"address_a": "Fortaleza, CE", "address_b": "Porto Alegre, RS", "time": "53 h", "distance": "4.208 km"}}
+{"10_19": {"address_a": "Fortaleza, CE", "address_b": "Porto Velho, RO", "time": "55 h", "distance": "3.719 km"}}
+{"10_20": {"address_a": "Fortaleza, CE", "address_b": "Recife, PE", "time": "10 h 58 min", "distance": "788 km"}}
+{"10_21": {"address_a": "Fortaleza, CE", "address_b": "Rio Branco, AC", "time": "61 h", "distance": "4.227 km"}}
+{"10_22": {"address_a": "Fortaleza, CE", "address_b": "Rio de Janeiro, RJ", "time": "38 h", "distance": "2.583 km"}}
+{"10_23": {"address_a": "Fortaleza, CE", "address_b": "Salvador, BA", "time": "16 h 16 min", "distance": "1.182 km"}}
+{"10_24": {"address_a": "Fortaleza, CE", "address_b": "São Luís, MA", "time": "12 h 50 min", "distance": "903 km"}}
+{"10_25": {"address_a": "Fortaleza, CE", "address_b": "São Paulo, SP", "time": "39 h", "distance": "3.099 km"}}
+{"10_26": {"address_a": "Fortaleza, CE", "address_b": "Teresina, PI", "time": "8 h 20 min", "distance": "604 km"}}
+{"10_27": {"address_a": "Fortaleza, CE", "address_b": "Vitória, ES", "time": "32 h", "distance": "2.159 km"}}
+{"11_0": {"address_a": "Goiânia, GO", "address_b": "Uberlândia, MG", "time": "4 h 30 min", "distance": "339 km"}}
+{"11_1": {"address_a": "Goiânia, GO", "address_b": "Aracaju, SE", "time": "24 h", "distance": "1.840 km"}}
+{"11_2": {"address_a": "Goiânia, GO", "address_b": "Belém, PA", "time": "28 h", "distance": "1.969 km"}}
+{"11_3": {"address_a": "Goiânia, GO", "address_b": "Belo Horizonte, MG", "time": "11 h 58 min", "distance": "892 km"}}
+{"11_4": {"address_a": "Goiânia, GO", "address_b": "Boa Vista, RR", "time": "56 h", "distance": "4.012 km"}}
+{"11_5": {"address_a": "Goiânia, GO", "address_b": "Brasília, DF", "time": "2 h 50 min", "distance": "207 km"}}
+{"11_6": {"address_a": "Goiânia, GO", "address_b": "Campo Grande, MS", "time": "10 h 16 min", "distance": "840 km"}}
+{"11_7": {"address_a": "Goiânia, GO", "address_b": "Cuiabá, MT", "time": "11 h 28 min", "distance": "888 km"}}
+{"11_8": {"address_a": "Goiânia, GO", "address_b": "Curitiba, PR", "time": "15 h 59 min", "distance": "1.297 km"}}
+{"11_9": {"address_a": "Goiânia, GO", "address_b": "Florianópolis, SC", "time": "19 h 41 min", "distance": "1.578 km"}}
+{"11_10": {"address_a": "Goiânia, GO", "address_b": "Fortaleza, CE", "time": "30 h", "distance": "2.319 km"}}
+{"11_12": {"address_a": "Goiânia, GO", "address_b": "João Pessoa, PB", "time": "33 h", "distance": "2.437 km"}}
+{"11_13": {"address_a": "Goiânia, GO", "address_b": "Macapá, AP", "time": "52 h", "distance": "2.480 km"}}
+{"11_14": {"address_a": "Goiânia, GO", "address_b": "Maceió, AL", "time": "28 h", "distance": "2.095 km"}}
+{"11_15": {"address_a": "Goiânia, GO", "address_b": "Manaus, AM", "time": "46 h", "distance": "3.229 km"}}
+{"11_16": {"address_a": "Goiânia, GO", "address_b": "Natal, RN", "time": "35 h", "distance": "2.607 km"}}
+{"11_17": {"address_a": "Goiânia, GO", "address_b": "Palmas, TO", "time": "10 h 43 min", "distance": "823 km"}}
+{"11_18": {"address_a": "Goiânia, GO", "address_b": "Porto Alegre, RS", "time": "25 h", "distance": "2.039 km"}}
+{"11_19": {"address_a": "Goiânia, GO", "address_b": "Porto Velho, RO", "time": "31 h", "distance": "2.341 km"}}
+{"11_20": {"address_a": "Goiânia, GO", "address_b": "Recife, PE", "time": "31 h", "distance": "2.323 km"}}
+{"11_21": {"address_a": "Goiânia, GO", "address_b": "Rio Branco, AC", "time": "37 h", "distance": "2.846 km"}}
+{"11_22": {"address_a": "Goiânia, GO", "address_b": "Rio de Janeiro, RJ", "time": "16 h 24 min", "distance": "1.306 km"}}
+{"11_23": {"address_a": "Goiânia, GO", "address_b": "Salvador, BA", "time": "21 h 7 min", "distance": "1.646 km"}}
+{"11_24": {"address_a": "Goiânia, GO", "address_b": "São Luís, MA", "time": "28 h", "distance": "2.010 km"}}
+{"11_25": {"address_a": "Goiânia, GO", "address_b": "São Paulo, SP", "time": "11 h 44 min", "distance": "930 km"}}
+{"11_26": {"address_a": "Goiânia, GO", "address_b": "Teresina, PI", "time": "24 h", "distance": "1.881 km"}}
+{"11_27": {"address_a": "Goiânia, GO", "address_b": "Vitória, ES", "time": "20 h 10 min", "distance": "1.396 km"}}
+{"12_0": {"address_a": "João Pessoa, PB", "address_b": "Uberlândia, MG", "time": "33 h", "distance": "2.403 km"}}
+{"12_1": {"address_a": "João Pessoa, PB", "address_b": "Aracaju, SE", "time": "8 h 28 min", "distance": "612 km"}}
+{"12_2": {"address_a": "João Pessoa, PB", "address_b": "Belém, PA", "time": "31 h", "distance": "2.084 km"}}
+{"12_3": {"address_a": "João Pessoa, PB", "address_b": "Belo Horizonte, MG", "time": "31 h", "distance": "2.131 km"}}
+{"12_4": {"address_a": "João Pessoa, PB", "address_b": "Boa Vista, RR", "time": "82 h", "distance": "5.451 km"}}
+{"12_5": {"address_a": "João Pessoa, PB", "address_b": "Brasília, DF", "time": "29 h", "distance": "2.232 km"}}
+{"12_6": {"address_a": "João Pessoa, PB", "address_b": "Campo Grande, MS", "time": "42 h", "distance": "3.273 km"}}
+{"12_7": {"address_a": "João Pessoa, PB", "address_b": "Cuiabá, MT", "time": "43 h", "distance": "3.292 km"}}
+{"12_8": {"address_a": "João Pessoa, PB", "address_b": "Curitiba, PR", "time": "43 h", "distance": "3.175 km"}}
+{"12_9": {"address_a": "João Pessoa, PB", "address_b": "Florianópolis, SC", "time": "47 h", "distance": "3.455 km"}}
+{"12_10": {"address_a": "João Pessoa, PB", "address_b": "Fortaleza, CE", "time": "9 h 5 min", "distance": "671 km"}}
+{"12_11": {"address_a": "João Pessoa, PB", "address_b": "Goiânia, GO", "time": "32 h", "distance": "2.434 km"}}
+{"12_13": {"address_a": "João Pessoa, PB", "address_b": "Macapá, AP", "time": "55 h", "distance": "2.595 km"}}
+{"12_14": {"address_a": "João Pessoa, PB", "address_b": "Maceió, AL", "time": "5 h 12 min", "distance": "370 km"}}
+{"12_15": {"address_a": "João Pessoa, PB", "address_b": "Manaus, AM", "time": "72 h", "distance": "4.669 km"}}
+{"12_16": {"address_a": "João Pessoa, PB", "address_b": "Natal, RN", "time": "2 h 23 min", "distance": "181 km"}}
+{"12_17": {"address_a": "João Pessoa, PB", "address_b": "Palmas, TO", "time": "29 h", "distance": "2.067 km"}}
+{"12_18": {"address_a": "João Pessoa, PB", "address_b": "Porto Alegre, RS", "time": "52 h", "distance": "3.890 km"}}
+{"12_19": {"address_a": "João Pessoa, PB", "address_b": "Porto Velho, RO", "time": "62 h", "distance": "4.178 km"}}
+{"12_20": {"address_a": "João Pessoa, PB", "address_b": "Recife, PE", "time": "1 h 56 min", "distance": "117 km"}}
+{"12_21": {"address_a": "João Pessoa, PB", "address_b": "Rio Branco, AC", "time": "68 h", "distance": "4.685 km"}}
+{"12_22": {"address_a": "João Pessoa, PB", "address_b": "Rio de Janeiro, RJ", "time": "35 h", "distance": "2.415 km"}}
+{"12_23": {"address_a": "João Pessoa, PB", "address_b": "Salvador, BA", "time": "13 h 10 min", "distance": "922 km"}}
+{"12_24": {"address_a": "João Pessoa, PB", "address_b": "São Luís, MA", "time": "21 h 19 min", "distance": "1.571 km"}}
+{"12_25": {"address_a": "João Pessoa, PB", "address_b": "São Paulo, SP", "time": "39 h", "distance": "2.907 km"}}
+{"12_26": {"address_a": "João Pessoa, PB", "address_b": "Teresina, PI", "time": "16 h 48 min", "distance": "1.176 km"}}
+{"12_27": {"address_a": "João Pessoa, PB", "address_b": "Vitória, ES", "time": "28 h", "distance": "1.963 km"}}
+{"13_0": {"address_a": "Macapá, AP", "address_b": "Uberlândia, MG", "time": "56 h", "distance": "2.814 km"}}
+{"13_1": {"address_a": "Macapá, AP", "address_b": "Aracaju, SE", "time": "53 h", "distance": "2.534 km"}}
+{"13_2": {"address_a": "Macapá, AP", "address_b": "Belém, PA", "time": "25 h", "distance": "527 km"}}
+{"13_3": {"address_a": "Macapá, AP", "address_b": "Belo Horizonte, MG", "time": "61 h", "distance": "3.189 km"}}
+{"13_4": {"address_a": "Macapá, AP", "address_b": "Boa Vista, RR", "time": "34 h", "distance": "2.286 km"}}
+{"13_5": {"address_a": "Macapá, AP", "address_b": "Brasília, DF", "time": "51 h", "distance": "2.461 km"}}
+{"13_6": {"address_a": "Macapá, AP", "address_b": "Campo Grande, MS", "time": "61 h", "distance": "3.368 km"}}
+{"13_7": {"address_a": "Macapá, AP", "address_b": "Cuiabá, MT", "time": "59 h", "distance": "2.904 km"}}
+{"13_8": {"address_a": "Macapá, AP", "address_b": "Curitiba, PR", "time": "68 h", "distance": "3.797 km"}}
+{"13_9": {"address_a": "Macapá, AP", "address_b": "Florianópolis, SC", "time": "72 h", "distance": "4.078 km"}}
+{"13_10": {"address_a": "Macapá, AP", "address_b": "Fortaleza, CE", "time": "46 h", "distance": "2.021 km"}}
+{"13_11": {"address_a": "Macapá, AP", "address_b": "Goiânia, GO", "time": "51 h", "distance": "2.477 km"}}
+{"13_12": {"address_a": "Macapá, AP", "address_b": "João Pessoa, PB", "time": "55 h", "distance": "2.591 km"}}
+{"13_14": {"address_a": "Macapá, AP", "address_b": "Maceió, AL", "time": "54 h", "distance": "2.590 km"}}
+{"13_15": {"address_a": "Macapá, AP", "address_b": "Manaus, AM", "time": "44 h", "distance": "3.009 km"}}
+{"13_16": {"address_a": "Macapá, AP", "address_b": "Natal, RN", "time": "53 h", "distance": "2.535 km"}}
+{"13_17": {"address_a": "Macapá, AP", "address_b": "Palmas, TO", "time": "41 h", "distance": "1.716 km"}}
+{"13_18": {"address_a": "Macapá, AP", "address_b": "Porto Alegre, RS", "time": "77 h", "distance": "4.513 km"}}
+{"13_19": {"address_a": "Macapá, AP", "address_b": "Porto Velho, RO", "time": "65 h", "distance": "3.079 km"}}
+{"13_20": {"address_a": "Macapá, AP", "address_b": "Recife, PE", "time": "54 h", "distance": "2.545 km"}}
+{"13_21": {"address_a": "Macapá, AP", "address_b": "Rio Branco, AC", "time": "71 h", "distance": "3.586 km"}}
+{"13_22": {"address_a": "Macapá, AP", "address_b": "Rio de Janeiro, RJ", "time": "66 h", "distance": "3.687 km"}}
+{"13_23": {"address_a": "Macapá, AP", "address_b": "Salvador, BA", "time": "54 h", "distance": "2.568 km"}}
+{"13_24": {"address_a": "Macapá, AP", "address_b": "São Luís, MA", "time": "35 h", "distance": "1.085 km"}}
+{"13_25": {"address_a": "Macapá, AP", "address_b": "São Paulo, SP", "time": "63 h", "distance": "3.404 km"}}
+{"13_26": {"address_a": "Macapá, AP", "address_b": "Teresina, PI", "time": "38 h", "distance": "1.418 km"}}
+{"13_27": {"address_a": "Macapá, AP", "address_b": "Vitória, ES", "time": "68 h", "distance": "3.729 km"}}
+{"14_0": {"address_a": "Maceió, AL", "address_b": "Uberlândia, MG", "time": "29 h", "distance": "2.063 km"}}
+{"14_1": {"address_a": "Maceió, AL", "address_b": "Aracaju, SE", "time": "3 h 53 min", "distance": "272 km"}}
+{"14_2": {"address_a": "Maceió, AL", "address_b": "Belém, PA", "time": "30 h", "distance": "2.098 km"}}
+{"14_3": {"address_a": "Maceió, AL", "address_b": "Belo Horizonte, MG", "time": "26 h", "distance": "1.796 km"}}
+{"14_4": {"address_a": "Maceió, AL", "address_b": "Boa Vista, RR", "time": "82 h", "distance": "5.459 km"}}
+{"14_5": {"address_a": "Maceió, AL", "address_b": "Brasília, DF", "time": "25 h", "distance": "1.892 km"}}
+{"14_6": {"address_a": "Maceió, AL", "address_b": "Campo Grande, MS", "time": "38 h", "distance": "2.825 km"}}
+{"14_7": {"address_a": "Maceió, AL", "address_b": "Cuiabá, MT", "time": "38 h", "distance": "2.952 km"}}
+{"14_8": {"address_a": "Maceió, AL", "address_b": "Curitiba, PR", "time": "39 h", "distance": "2.834 km"}}
+{"14_9": {"address_a": "Maceió, AL", "address_b": "Florianópolis, SC", "time": "43 h", "distance": "3.115 km"}}
+{"14_10": {"address_a": "Maceió, AL", "address_b": "Fortaleza, CE", "time": "14 h 19 min", "distance": "998 km"}}
+{"14_11": {"address_a": "Maceió, AL", "address_b": "Goiânia, GO", "time": "27 h", "distance": "2.094 km"}}
+{"14_12": {"address_a": "Maceió, AL", "address_b": "João Pessoa, PB", "time": "5 h 23 min", "distance": "370 km"}}
+{"14_13": {"address_a": "Maceió, AL", "address_b": "Macapá, AP", "time": "54 h", "distance": "2.608 km"}}
+{"14_15": {"address_a": "Maceió, AL", "address_b": "Manaus, AM", "time": "72 h", "distance": "4.677 km"}}
+{"14_16": {"address_a": "Maceió, AL", "address_b": "Natal, RN", "time": "7 h 33 min", "distance": "541 km"}}
+{"14_17": {"address_a": "Maceió, AL", "address_b": "Palmas, TO", "time": "25 h", "distance": "1.886 km"}}
+{"14_18": {"address_a": "Maceió, AL", "address_b": "Porto Alegre, RS", "time": "48 h", "distance": "3.550 km"}}
+{"14_19": {"address_a": "Maceió, AL", "address_b": "Porto Velho, RO", "time": "58 h", "distance": "4.405 km"}}
+{"14_20": {"address_a": "Maceió, AL", "address_b": "Recife, PE", "time": "3 h 46 min", "distance": "257 km"}}
+{"14_21": {"address_a": "Maceió, AL", "address_b": "Rio Branco, AC", "time": "65 h", "distance": "4.910 km"}}
+{"14_22": {"address_a": "Maceió, AL", "address_b": "Rio de Janeiro, RJ", "time": "31 h", "distance": "2.081 km"}}
+{"14_23": {"address_a": "Maceió, AL", "address_b": "Salvador, BA", "time": "8 h 40 min", "distance": "581 km"}}
+{"14_24": {"address_a": "Maceió, AL", "address_b": "São Luís, MA", "time": "23 h 10 min", "distance": "1.626 km"}}
+{"14_25": {"address_a": "Maceió, AL", "address_b": "São Paulo, SP", "time": "35 h", "distance": "2.567 km"}}
+{"14_26": {"address_a": "Maceió, AL", "address_b": "Teresina, PI", "time": "16 h 29 min", "distance": "1.191 km"}}
+{"14_27": {"address_a": "Maceió, AL", "address_b": "Vitória, ES", "time": "24 h", "distance": "1.623 km"}}
+{"15_0": {"address_a": "Manaus, AM", "address_b": "Uberlândia, MG", "time": "48 h", "distance": "3.387 km"}}
+{"15_1": {"address_a": "Manaus, AM", "address_b": "Aracaju, SE", "time": "69 h", "distance": "5.042 km"}}
+{"15_2": {"address_a": "Manaus, AM", "address_b": "Belém, PA", "time": "51 h", "distance": "3.063 km"}}
+{"15_3": {"address_a": "Manaus, AM", "address_b": "Belo Horizonte, MG", "time": "56 h", "distance": "3.923 km"}}
+{"15_4": {"address_a": "Manaus, AM", "address_b": "Boa Vista, RR", "time": "9 h 55 min", "distance": "783 km"}}
+{"15_5": {"address_a": "Manaus, AM", "address_b": "Brasília, DF", "time": "48 h", "distance": "3.413 km"}}
+{"15_6": {"address_a": "Manaus, AM", "address_b": "Campo Grande, MS", "time": "43 h", "distance": "3.055 km"}}
+{"15_7": {"address_a": "Manaus, AM", "address_b": "Cuiabá, MT", "time": "34 h", "distance": "2.349 km"}}
+{"15_8": {"address_a": "Manaus, AM", "address_b": "Curitiba, PR", "time": "55 h", "distance": "4.023 km"}}
+{"15_9": {"address_a": "Manaus, AM", "address_b": "Florianópolis, SC", "time": "59 h", "distance": "4.327 km"}}
+{"15_10": {"address_a": "Manaus, AM", "address_b": "Fortaleza, CE", "time": "66 h", "distance": "4.173 km"}}
+{"15_11": {"address_a": "Manaus, AM", "address_b": "Goiânia, GO", "time": "46 h", "distance": "3.233 km"}}
+{"15_12": {"address_a": "Manaus, AM", "address_b": "João Pessoa, PB", "time": "73 h", "distance": "4.676 km"}}
+{"15_13": {"address_a": "Manaus, AM", "address_b": "Macapá, AP", "time": "43 h", "distance": "2.992 km"}}
+{"15_14": {"address_a": "Manaus, AM", "address_b": "Maceió, AL", "time": "72 h", "distance": "4.661 km"}}
+{"15_16": {"address_a": "Manaus, AM", "address_b": "Natal, RN", "time": "73 h", "distance": "4.659 km"}}
+{"15_17": {"address_a": "Manaus, AM", "address_b": "Palmas, TO", "time": "51 h", "distance": "3.645 km"}}
+{"15_18": {"address_a": "Manaus, AM", "address_b": "Porto Alegre, RS", "time": "63 h", "distance": "4.470 km"}}
+{"15_19": {"address_a": "Manaus, AM", "address_b": "Porto Velho, RO", "time": "15 h 9 min", "distance": "889 km"}}
+{"15_20": {"address_a": "Manaus, AM", "address_b": "Recife, PE", "time": "72 h", "distance": "4.616 km"}}
+{"15_21": {"address_a": "Manaus, AM", "address_b": "Rio Branco, AC", "time": "21 h 45 min", "distance": "1.397 km"}}
+{"15_22": {"address_a": "Manaus, AM", "address_b": "Rio de Janeiro, RJ", "time": "60 h", "distance": "4.285 km"}}
+{"15_23": {"address_a": "Manaus, AM", "address_b": "Salvador, BA", "time": "66 h", "distance": "4.848 km"}}
+{"15_24": {"address_a": "Manaus, AM", "address_b": "São Luís, MA", "time": "58 h", "distance": "3.539 km"}}
+{"15_25": {"address_a": "Manaus, AM", "address_b": "São Paulo, SP", "time": "54 h", "distance": "3.883 km"}}
+{"15_26": {"address_a": "Manaus, AM", "address_b": "Teresina, PI", "time": "58 h", "distance": "3.572 km"}}
+{"15_27": {"address_a": "Manaus, AM", "address_b": "Vitória, ES", "time": "64 h", "distance": "4.435 km"}}
+{"16_0": {"address_a": "Natal, RN", "address_b": "Uberlândia, MG", "time": "35 h", "distance": "2.575 km"}}
+{"16_1": {"address_a": "Natal, RN", "address_b": "Aracaju, SE", "time": "10 h 34 min", "distance": "784 km"}}
+{"16_2": {"address_a": "Natal, RN", "address_b": "Belém, PA", "time": "29 h", "distance": "1.954 km"}}
+{"16_3": {"address_a": "Natal, RN", "address_b": "Belo Horizonte, MG", "time": "33 h", "distance": "2.368 km"}}
+{"16_4": {"address_a": "Natal, RN", "address_b": "Boa Vista, RR", "time": "82 h", "distance": "5.432 km"}}
+{"16_5": {"address_a": "Natal, RN", "address_b": "Brasília, DF", "time": "31 h", "distance": "2.403 km"}}
+{"16_6": {"address_a": "Natal, RN", "address_b": "Campo Grande, MS", "time": "44 h", "distance": "3.444 km"}}
+{"16_7": {"address_a": "Natal, RN", "address_b": "Cuiabá, MT", "time": "45 h", "distance": "3.464 km"}}
+{"16_8": {"address_a": "Natal, RN", "address_b": "Curitiba, PR", "time": "45 h", "distance": "3.346 km"}}
+{"16_9": {"address_a": "Natal, RN", "address_b": "Florianópolis, SC", "time": "49 h", "distance": "3.627 km"}}
+{"16_10": {"address_a": "Natal, RN", "address_b": "Fortaleza, CE", "time": "7 h 22 min", "distance": "522 km"}}
+{"16_11": {"address_a": "Natal, RN", "address_b": "Goiânia, GO", "time": "34 h", "distance": "2.605 km"}}
+{"16_12": {"address_a": "Natal, RN", "address_b": "João Pessoa, PB", "time": "2 h 27 min", "distance": "181 km"}}
+{"16_13": {"address_a": "Natal, RN", "address_b": "Macapá, AP", "time": "53 h", "distance": "2.465 km"}}
+{"16_14": {"address_a": "Natal, RN", "address_b": "Maceió, AL", "time": "7 h 21 min", "distance": "541 km"}}
+{"16_15": {"address_a": "Natal, RN", "address_b": "Manaus, AM", "time": "72 h", "distance": "4.649 km"}}
+{"16_17": {"address_a": "Natal, RN", "address_b": "Palmas, TO", "time": "28 h", "distance": "2.048 km"}}
+{"16_18": {"address_a": "Natal, RN", "address_b": "Porto Alegre, RS", "time": "54 h", "distance": "4.062 km"}}
+{"16_19": {"address_a": "Natal, RN", "address_b": "Porto Velho, RO", "time": "61 h", "distance": "4.158 km"}}
+{"16_20": {"address_a": "Natal, RN", "address_b": "Recife, PE", "time": "4 h 1 min", "distance": "288 km"}}
+{"16_21": {"address_a": "Natal, RN", "address_b": "Rio Branco, AC", "time": "68 h", "distance": "4.666 km"}}
+{"16_22": {"address_a": "Natal, RN", "address_b": "Rio de Janeiro, RJ", "time": "38 h", "distance": "2.587 km"}}
+{"16_23": {"address_a": "Natal, RN", "address_b": "Salvador, BA", "time": "15 h 7 min", "distance": "1.093 km"}}
+{"16_24": {"address_a": "Natal, RN", "address_b": "São Luís, MA", "time": "19 h 54 min", "distance": "1.422 km"}}
+{"16_25": {"address_a": "Natal, RN", "address_b": "São Paulo, SP", "time": "41 h", "distance": "3.079 km"}}
+{"16_26": {"address_a": "Natal, RN", "address_b": "Teresina, PI", "time": "14 h 58 min", "distance": "1.046 km"}}
+{"16_27": {"address_a": "Natal, RN", "address_b": "Vitória, ES", "time": "31 h", "distance": "2.134 km"}}
+{"17_0": {"address_a": "Palmas, TO", "address_b": "Uberlândia, MG", "time": "14 h 34 min", "distance": "1.160 km"}}
+{"17_1": {"address_a": "Palmas, TO", "address_b": "Aracaju, SE", "time": "22 h 3 min", "distance": "1.633 km"}}
+{"17_2": {"address_a": "Palmas, TO", "address_b": "Belém, PA", "time": "18 h 10 min", "distance": "1.211 km"}}
+{"17_3": {"address_a": "Palmas, TO", "address_b": "Belo Horizonte, MG", "time": "18 h 25 min", "distance": "1.546 km"}}
+{"17_4": {"address_a": "Palmas, TO", "address_b": "Boa Vista, RR", "time": "61 h", "distance": "4.428 km"}}
+{"17_5": {"address_a": "Palmas, TO", "address_b": "Brasília, DF", "time": "9 h 52 min", "distance": "843 km"}}
+{"17_6": {"address_a": "Palmas, TO", "address_b": "Campo Grande, MS", "time": "20 h 33 min", "distance": "1.717 km"}}
+{"17_7": {"address_a": "Palmas, TO", "address_b": "Cuiabá, MT", "time": "18 h 32 min", "distance": "1.531 km"}}
+{"17_8": {"address_a": "Palmas, TO", "address_b": "Curitiba, PR", "time": "26 h", "distance": "2.143 km"}}
+{"17_9": {"address_a": "Palmas, TO", "address_b": "Florianópolis, SC", "time": "30 h", "distance": "2.424 km"}}
+{"17_10": {"address_a": "Palmas, TO", "address_b": "Fortaleza, CE", "time": "23 h 34 min", "distance": "1.730 km"}}
+{"17_11": {"address_a": "Palmas, TO", "address_b": "Goiânia, GO", "time": "10 h 40 min", "distance": "824 km"}}
+{"17_12": {"address_a": "Palmas, TO", "address_b": "João Pessoa, PB", "time": "29 h", "distance": "2.042 km"}}
+{"17_13": {"address_a": "Palmas, TO", "address_b": "Macapá, AP", "time": "42 h", "distance": "1.722 km"}}
+{"17_14": {"address_a": "Palmas, TO", "address_b": "Maceió, AL", "time": "26 h", "distance": "1.887 km"}}
+{"17_15": {"address_a": "Palmas, TO", "address_b": "Manaus, AM", "time": "52 h", "distance": "3.646 km"}}
+{"17_16": {"address_a": "Palmas, TO", "address_b": "Natal, RN", "time": "29 h", "distance": "2.057 km"}}
+{"17_18": {"address_a": "Palmas, TO", "address_b": "Porto Alegre, RS", "time": "35 h", "distance": "2.859 km"}}
+{"17_19": {"address_a": "Palmas, TO", "address_b": "Porto Velho, RO", "time": "37 h", "distance": "2.758 km"}}
+{"17_20": {"address_a": "Palmas, TO", "address_b": "Recife, PE", "time": "28 h", "distance": "2.014 km"}}
+{"17_21": {"address_a": "Palmas, TO", "address_b": "Rio Branco, AC", "time": "43 h", "distance": "3.263 km"}}
+{"17_22": {"address_a": "Palmas, TO", "address_b": "Rio de Janeiro, RJ", "time": "24 h", "distance": "1.973 km"}}
+{"17_23": {"address_a": "Palmas, TO", "address_b": "Salvador, BA", "time": "18 h 55 min", "distance": "1.439 km"}}
+{"17_24": {"address_a": "Palmas, TO", "address_b": "São Luís, MA", "time": "18 h 24 min", "distance": "1.252 km"}}
+{"17_25": {"address_a": "Palmas, TO", "address_b": "São Paulo, SP", "time": "21 h 17 min", "distance": "1.750 km"}}
+{"17_26": {"address_a": "Palmas, TO", "address_b": "Teresina, PI", "time": "15 h 37 min", "distance": "1.109 km"}}
+{"17_27": {"address_a": "Palmas, TO", "address_b": "Vitória, ES", "time": "27 h", "distance": "2.050 km"}}
+{"18_0": {"address_a": "Porto Alegre, RS", "address_b": "Uberlândia, MG", "time": "19 h 45 min", "distance": "1.698 km"}}
+{"18_1": {"address_a": "Porto Alegre, RS", "address_b": "Aracaju, SE", "time": "42 h", "distance": "3.281 km"}}
+{"18_2": {"address_a": "Porto Alegre, RS", "address_b": "Belém, PA", "time": "52 h", "distance": "4.027 km"}}
+{"18_3": {"address_a": "Porto Alegre, RS", "address_b": "Belo Horizonte, MG", "time": "20 h 44 min", "distance": "1.706 km"}}
+{"18_4": {"address_a": "Porto Alegre, RS", "address_b": "Boa Vista, RR", "time": "73 h", "distance": "5.255 km"}}
+{"18_5": {"address_a": "Porto Alegre, RS", "address_b": "Brasília, DF", "time": "25 h", "distance": "2.115 km"}}
+{"18_6": {"address_a": "Porto Alegre, RS", "address_b": "Campo Grande, MS", "time": "19 h 33 min", "distance": "1.424 km"}}
+{"18_7": {"address_a": "Porto Alegre, RS", "address_b": "Cuiabá, MT", "time": "29 h", "distance": "2.125 km"}}
+{"18_8": {"address_a": "Porto Alegre, RS", "address_b": "Curitiba, PR", "time": "8 h 49 min", "distance": "741 km"}}
+{"18_9": {"address_a": "Porto Alegre, RS", "address_b": "Florianópolis, SC", "time": "5 h 25 min", "distance": "463 km"}}
+{"18_10": {"address_a": "Porto Alegre, RS", "address_b": "Fortaleza, CE", "time": "51 h", "distance": "4.197 km"}}
+{"18_11": {"address_a": "Porto Alegre, RS", "address_b": "Goiânia, GO", "time": "23 h 55 min", "distance": "2.035 km"}}
+{"18_12": {"address_a": "Porto Alegre, RS", "address_b": "João Pessoa, PB", "time": "51 h", "distance": "3.878 km"}}
+{"18_13": {"address_a": "Porto Alegre, RS", "address_b": "Macapá, AP", "time": "76 h", "distance": "4.537 km"}}
+{"18_14": {"address_a": "Porto Alegre, RS", "address_b": "Maceió, AL", "time": "46 h", "distance": "3.536 km"}}
+{"18_15": {"address_a": "Porto Alegre, RS", "address_b": "Manaus, AM", "time": "63 h", "distance": "4.473 km"}}
+{"18_16": {"address_a": "Porto Alegre, RS", "address_b": "Natal, RN", "time": "53 h", "distance": "4.048 km"}}
+{"18_17": {"address_a": "Porto Alegre, RS", "address_b": "Palmas, TO", "time": "34 h", "distance": "2.921 km"}}
+{"18_19": {"address_a": "Porto Alegre, RS", "address_b": "Porto Velho, RO", "time": "48 h", "distance": "3.585 km"}}
+{"18_20": {"address_a": "Porto Alegre, RS", "address_b": "Recife, PE", "time": "49 h", "distance": "3.764 km"}}
+{"18_21": {"address_a": "Porto Alegre, RS", "address_b": "Rio Branco, AC", "time": "55 h", "distance": "4.090 km"}}
+{"18_22": {"address_a": "Porto Alegre, RS", "address_b": "Rio de Janeiro, RJ", "time": "19 h", "distance": "1.570 km"}}
+{"18_23": {"address_a": "Porto Alegre, RS", "address_b": "Salvador, BA", "time": "39 h", "distance": "3.087 km"}}
+{"18_24": {"address_a": "Porto Alegre, RS", "address_b": "São Luís, MA", "time": "52 h", "distance": "4.105 km"}}
+{"18_25": {"address_a": "Porto Alegre, RS", "address_b": "São Paulo, SP", "time": "13 h 57 min", "distance": "1.130 km"}}
+{"18_26": {"address_a": "Porto Alegre, RS", "address_b": "Teresina, PI", "time": "46 h", "distance": "3.760 km"}}
+{"18_27": {"address_a": "Porto Alegre, RS", "address_b": "Vitória, ES", "time": "27 h", "distance": "2.092 km"}}
+{"19_0": {"address_a": "Porto Velho, RO", "address_b": "Uberlândia, MG", "time": "33 h", "distance": "2.498 km"}}
+{"19_1": {"address_a": "Porto Velho, RO", "address_b": "Aracaju, SE", "time": "54 h", "distance": "4.154 km"}}
+{"19_2": {"address_a": "Porto Velho, RO", "address_b": "Belém, PA", "time": "41 h", "distance": "2.571 km"}}
+{"19_3": {"address_a": "Porto Velho, RO", "address_b": "Belo Horizonte, MG", "time": "41 h", "distance": "3.034 km"}}
+{"19_4": {"address_a": "Porto Velho, RO", "address_b": "Boa Vista, RR", "time": "25 h", "distance": "1.671 km"}}
+{"19_5": {"address_a": "Porto Velho, RO", "address_b": "Brasília, DF", "time": "33 h", "distance": "2.523 km"}}
+{"19_6": {"address_a": "Porto Velho, RO", "address_b": "Campo Grande, MS", "time": "28 h", "distance": "2.166 km"}}
+{"19_7": {"address_a": "Porto Velho, RO", "address_b": "Cuiabá, MT", "time": "18 h 41 min", "distance": "1.461 km"}}
+{"19_8": {"address_a": "Porto Velho, RO", "address_b": "Curitiba, PR", "time": "40 h", "distance": "3.134 km"}}
+{"19_9": {"address_a": "Porto Velho, RO", "address_b": "Florianópolis, SC", "time": "44 h", "distance": "3.438 km"}}
+{"19_10": {"address_a": "Porto Velho, RO", "address_b": "Fortaleza, CE", "time": "55 h", "distance": "3.681 km"}}
+{"19_11": {"address_a": "Porto Velho, RO", "address_b": "Goiânia, GO", "time": "30 h", "distance": "2.343 km"}}
+{"19_12": {"address_a": "Porto Velho, RO", "address_b": "João Pessoa, PB", "time": "62 h", "distance": "4.184 km"}}
+{"19_13": {"address_a": "Porto Velho, RO", "address_b": "Macapá, AP", "time": "65 h", "distance": "3.082 km"}}
+{"19_14": {"address_a": "Porto Velho, RO", "address_b": "Maceió, AL", "time": "57 h", "distance": "4.408 km"}}
+{"19_15": {"address_a": "Porto Velho, RO", "address_b": "Manaus, AM", "time": "15 h 10 min", "distance": "889 km"}}
+{"19_16": {"address_a": "Porto Velho, RO", "address_b": "Natal, RN", "time": "62 h", "distance": "4.167 km"}}
+{"19_17": {"address_a": "Porto Velho, RO", "address_b": "Palmas, TO", "time": "36 h", "distance": "2.756 km"}}
+{"19_18": {"address_a": "Porto Velho, RO", "address_b": "Porto Alegre, RS", "time": "48 h", "distance": "3.582 km"}}
+{"19_20": {"address_a": "Porto Velho, RO", "address_b": "Recife, PE", "time": "62 h", "distance": "4.124 km"}}
+{"19_21": {"address_a": "Porto Velho, RO", "address_b": "Rio Branco, AC", "time": "6 h 39 min", "distance": "510 km"}}
+{"19_22": {"address_a": "Porto Velho, RO", "address_b": "Rio de Janeiro, RJ", "time": "44 h", "distance": "3.396 km"}}
+{"19_23": {"address_a": "Porto Velho, RO", "address_b": "Salvador, BA", "time": "51 h", "distance": "3.960 km"}}
+{"19_24": {"address_a": "Porto Velho, RO", "address_b": "São Luís, MA", "time": "47 h", "distance": "3.047 km"}}
+{"19_25": {"address_a": "Porto Velho, RO", "address_b": "São Paulo, SP", "time": "39 h", "distance": "2.994 km"}}
+{"19_26": {"address_a": "Porto Velho, RO", "address_b": "Teresina, PI", "time": "47 h", "distance": "3.080 km"}}
+{"19_27": {"address_a": "Porto Velho, RO", "address_b": "Vitória, ES", "time": "49 h", "distance": "3.545 km"}}
+{"20_0": {"address_a": "Recife, PE", "address_b": "Uberlândia, MG", "time": "32 h", "distance": "2.295 km"}}
+{"20_1": {"address_a": "Recife, PE", "address_b": "Aracaju, SE", "time": "7 h 4 min", "distance": "504 km"}}
+{"20_2": {"address_a": "Recife, PE", "address_b": "Belém, PA", "time": "30 h", "distance": "2.035 km"}}
+{"20_3": {"address_a": "Recife, PE", "address_b": "Belo Horizonte, MG", "time": "29 h", "distance": "2.026 km"}}
+{"20_4": {"address_a": "Recife, PE", "address_b": "Boa Vista, RR", "time": "82 h", "distance": "5.397 km"}}
+{"20_5": {"address_a": "Recife, PE", "address_b": "Brasília, DF", "time": "28 h", "distance": "2.124 km"}}
+{"20_6": {"address_a": "Recife, PE", "address_b": "Campo Grande, MS", "time": "41 h", "distance": "3.165 km"}}
+{"20_7": {"address_a": "Recife, PE", "address_b": "Cuiabá, MT", "time": "41 h", "distance": "3.184 km"}}
+{"20_8": {"address_a": "Recife, PE", "address_b": "Curitiba, PR", "time": "42 h", "distance": "3.062 km"}}
+{"20_9": {"address_a": "Recife, PE", "address_b": "Florianópolis, SC", "time": "46 h", "distance": "3.347 km"}}
+{"20_10": {"address_a": "Recife, PE", "address_b": "Fortaleza, CE", "time": "10 h 35 min", "distance": "777 km"}}
+{"20_11": {"address_a": "Recife, PE", "address_b": "Goiânia, GO", "time": "30 h", "distance": "2.325 km"}}
+{"20_12": {"address_a": "Recife, PE", "address_b": "João Pessoa, PB", "time": "1 h 56 min", "distance": "116 km"}}
+{"20_13": {"address_a": "Recife, PE", "address_b": "Macapá, AP", "time": "54 h", "distance": "2.545 km"}}
+{"20_14": {"address_a": "Recife, PE", "address_b": "Maceió, AL", "time": "3 h 44 min", "distance": "261 km"}}
+{"20_15": {"address_a": "Recife, PE", "address_b": "Manaus, AM", "time": "72 h", "distance": "4.614 km"}}
+{"20_16": {"address_a": "Recife, PE", "address_b": "Natal, RN", "time": "3 h 59 min", "distance": "287 km"}}
+{"20_17": {"address_a": "Recife, PE", "address_b": "Palmas, TO", "time": "28 h", "distance": "2.012 km"}}
+{"20_18": {"address_a": "Recife, PE", "address_b": "Porto Alegre, RS", "time": "51 h", "distance": "3.782 km"}}
+{"20_19": {"address_a": "Recife, PE", "address_b": "Porto Velho, RO", "time": "61 h", "distance": "4.123 km"}}
+{"20_21": {"address_a": "Recife, PE", "address_b": "Rio Branco, AC", "time": "68 h", "distance": "4.630 km"}}
+{"20_22": {"address_a": "Recife, PE", "address_b": "Rio de Janeiro, RJ", "time": "34 h", "distance": "2.312 km"}}
+{"20_23": {"address_a": "Recife, PE", "address_b": "Salvador, BA", "time": "11 h 55 min", "distance": "813 km"}}
+{"20_24": {"address_a": "Recife, PE", "address_b": "São Luís, MA", "time": "22 h 48 min", "distance": "1.563 km"}}
+{"20_25": {"address_a": "Recife, PE", "address_b": "São Paulo, SP", "time": "38 h", "distance": "2.799 km"}}
+{"20_26": {"address_a": "Recife, PE", "address_b": "Teresina, PI", "time": "16 h 8 min", "distance": "1.128 km"}}
+{"20_27": {"address_a": "Recife, PE", "address_b": "Vitória, ES", "time": "27 h", "distance": "1.855 km"}}
+{"21_0": {"address_a": "Rio Branco, AC", "address_b": "Uberlândia, MG", "time": "39 h", "distance": "3.004 km"}}
+{"21_1": {"address_a": "Rio Branco, AC", "address_b": "Aracaju, SE", "time": "61 h", "distance": "4.659 km"}}
+{"21_2": {"address_a": "Rio Branco, AC", "address_b": "Belém, PA", "time": "47 h", "distance": "3.079 km"}}
+{"21_3": {"address_a": "Rio Branco, AC", "address_b": "Belo Horizonte, MG", "time": "47 h", "distance": "3.539 km"}}
+{"21_4": {"address_a": "Rio Branco, AC", "address_b": "Boa Vista, RR", "time": "31 h", "distance": "2.177 km"}}
+{"21_5": {"address_a": "Rio Branco, AC", "address_b": "Brasília, DF", "time": "39 h", "distance": "3.029 km"}}
+{"21_6": {"address_a": "Rio Branco, AC", "address_b": "Campo Grande, MS", "time": "35 h", "distance": "2.672 km"}}
+{"21_7": {"address_a": "Rio Branco, AC", "address_b": "Cuiabá, MT", "time": "25 h", "distance": "1.965 km"}}
+{"21_8": {"address_a": "Rio Branco, AC", "address_b": "Curitiba, PR", "time": "47 h", "distance": "3.639 km"}}
+{"21_9": {"address_a": "Rio Branco, AC", "address_b": "Florianópolis, SC", "time": "51 h", "distance": "3.944 km"}}
+{"21_10": {"address_a": "Rio Branco, AC", "address_b": "Fortaleza, CE", "time": "62 h", "distance": "4.188 km"}}
+{"21_11": {"address_a": "Rio Branco, AC", "address_b": "Goiânia, GO", "time": "37 h", "distance": "2.849 km"}}
+{"21_12": {"address_a": "Rio Branco, AC", "address_b": "João Pessoa, PB", "time": "69 h", "distance": "4.691 km"}}
+{"21_13": {"address_a": "Rio Branco, AC", "address_b": "Macapá, AP", "time": "71 h", "distance": "3.589 km"}}
+{"21_14": {"address_a": "Rio Branco, AC", "address_b": "Maceió, AL", "time": "64 h", "distance": "4.913 km"}}
+{"21_15": {"address_a": "Rio Branco, AC", "address_b": "Manaus, AM", "time": "21 h 34 min", "distance": "1.396 km"}}
+{"21_16": {"address_a": "Rio Branco, AC", "address_b": "Natal, RN", "time": "69 h", "distance": "4.674 km"}}
+{"21_17": {"address_a": "Rio Branco, AC", "address_b": "Palmas, TO", "time": "43 h", "distance": "3.261 km"}}
+{"21_18": {"address_a": "Rio Branco, AC", "address_b": "Porto Alegre, RS", "time": "56 h", "distance": "4.087 km"}}
+{"21_19": {"address_a": "Rio Branco, AC", "address_b": "Porto Velho, RO", "time": "6 h 31 min", "distance": "509 km"}}
+{"21_20": {"address_a": "Rio Branco, AC", "address_b": "Recife, PE", "time": "68 h", "distance": "4.629 km"}}
+{"21_22": {"address_a": "Rio Branco, AC", "address_b": "Rio de Janeiro, RJ", "time": "51 h", "distance": "3.901 km"}}
+{"21_23": {"address_a": "Rio Branco, AC", "address_b": "Salvador, BA", "time": "58 h", "distance": "4.465 km"}}
+{"21_24": {"address_a": "Rio Branco, AC", "address_b": "São Luís, MA", "time": "54 h", "distance": "3.554 km"}}
+{"21_25": {"address_a": "Rio Branco, AC", "address_b": "São Paulo, SP", "time": "46 h", "distance": "3.511 km"}}
+{"21_26": {"address_a": "Rio Branco, AC", "address_b": "Teresina, PI", "time": "53 h", "distance": "3.588 km"}}
+{"21_27": {"address_a": "Rio Branco, AC", "address_b": "Vitória, ES", "time": "56 h", "distance": "4.051 km"}}
+{"22_0": {"address_a": "Rio de Janeiro, RJ", "address_b": "Uberlândia, MG", "time": "11 h 50 min", "distance": "991 km"}}
+{"22_1": {"address_a": "Rio de Janeiro, RJ", "address_b": "Aracaju, SE", "time": "27 h", "distance": "1.826 km"}}
+{"22_2": {"address_a": "Rio de Janeiro, RJ", "address_b": "Belém, PA", "time": "43 h", "distance": "3.178 km"}}
+{"22_3": {"address_a": "Rio de Janeiro, RJ", "address_b": "Belo Horizonte, MG", "time": "6 h 24 min", "distance": "441 km"}}
+{"22_4": {"address_a": "Rio de Janeiro, RJ", "address_b": "Boa Vista, RR", "time": "69 h", "distance": "5.062 km"}}
+{"22_5": {"address_a": "Rio de Janeiro, RJ", "address_b": "Brasília, DF", "time": "15 h 17 min", "distance": "1.166 km"}}
+{"22_6": {"address_a": "Rio de Janeiro, RJ", "address_b": "Campo Grande, MS", "time": "16 h 24 min", "distance": "1.410 km"}}
+{"22_7": {"address_a": "Rio de Janeiro, RJ", "address_b": "Cuiabá, MT", "time": "24 h", "distance": "1.932 km"}}
+{"22_8": {"address_a": "Rio de Janeiro, RJ", "address_b": "Curitiba, PR", "time": "10 h 52 min", "distance": "855 km"}}
+{"22_9": {"address_a": "Rio de Janeiro, RJ", "address_b": "Florianópolis, SC", "time": "14 h 30 min", "distance": "1.136 km"}}
+{"22_10": {"address_a": "Rio de Janeiro, RJ", "address_b": "Fortaleza, CE", "time": "38 h", "distance": "2.581 km"}}
+{"22_11": {"address_a": "Rio de Janeiro, RJ", "address_b": "Goiânia, GO", "time": "16 h 2 min", "distance": "1.308 km"}}
+{"22_12": {"address_a": "Rio de Janeiro, RJ", "address_b": "João Pessoa, PB", "time": "36 h", "distance": "2.422 km"}}
+{"22_13": {"address_a": "Rio de Janeiro, RJ", "address_b": "Macapá, AP", "time": "67 h", "distance": "3.689 km"}}
+{"22_14": {"address_a": "Rio de Janeiro, RJ", "address_b": "Maceió, AL", "time": "31 h", "distance": "2.080 km"}}
+{"22_15": {"address_a": "Rio de Janeiro, RJ", "address_b": "Manaus, AM", "time": "59 h", "distance": "4.280 km"}}
+{"22_16": {"address_a": "Rio de Janeiro, RJ", "address_b": "Natal, RN", "time": "38 h", "distance": "2.593 km"}}
+{"22_17": {"address_a": "Rio de Janeiro, RJ", "address_b": "Palmas, TO", "time": "25 h", "distance": "1.973 km"}}
+{"22_18": {"address_a": "Rio de Janeiro, RJ", "address_b": "Porto Alegre, RS", "time": "19 h 23 min", "distance": "1.581 km"}}
+{"22_19": {"address_a": "Rio de Janeiro, RJ", "address_b": "Porto Velho, RO", "time": "44 h", "distance": "3.390 km"}}
+{"22_20": {"address_a": "Rio de Janeiro, RJ", "address_b": "Recife, PE", "time": "35 h", "distance": "2.309 km"}}
+{"22_21": {"address_a": "Rio de Janeiro, RJ", "address_b": "Rio Branco, AC", "time": "51 h", "distance": "3.896 km"}}
+{"22_23": {"address_a": "Rio de Janeiro, RJ", "address_b": "Salvador, BA", "time": "24 h", "distance": "1.632 km"}}
+{"22_24": {"address_a": "Rio de Janeiro, RJ", "address_b": "São Luís, MA", "time": "42 h", "distance": "3.077 km"}}
+{"22_25": {"address_a": "Rio de Janeiro, RJ", "address_b": "São Paulo, SP", "time": "5 h 22 min", "distance": "435 km"}}
+{"22_26": {"address_a": "Rio de Janeiro, RJ", "address_b": "Teresina, PI", "time": "35 h", "distance": "2.461 km"}}
+{"22_27": {"address_a": "Rio de Janeiro, RJ", "address_b": "Vitória, ES", "time": "7 h 37 min", "distance": "534 km"}}
+{"23_0": {"address_a": "Salvador, BA", "address_b": "Uberlândia, MG", "time": "21 h 54 min", "distance": "1.615 km"}}
+{"23_1": {"address_a": "Salvador, BA", "address_b": "Aracaju, SE", "time": "5 h 2 min", "distance": "326 km"}}
+{"23_2": {"address_a": "Salvador, BA", "address_b": "Belém, PA", "time": "30 h", "distance": "2.059 km"}}
+{"23_3": {"address_a": "Salvador, BA", "address_b": "Belo Horizonte, MG", "time": "19 h 35 min", "distance": "1.408 km"}}
+{"23_4": {"address_a": "Salvador, BA", "address_b": "Boa Vista, RR", "time": "76 h", "distance": "5.628 km"}}
+{"23_5": {"address_a": "Salvador, BA", "address_b": "Brasília, DF", "time": "18 h 15 min", "distance": "1.444 km"}}
+{"23_6": {"address_a": "Salvador, BA", "address_b": "Campo Grande, MS", "time": "31 h", "distance": "2.377 km"}}
+{"23_7": {"address_a": "Salvador, BA", "address_b": "Cuiabá, MT", "time": "32 h", "distance": "2.504 km"}}
+{"23_8": {"address_a": "Salvador, BA", "address_b": "Curitiba, PR", "time": "32 h", "distance": "2.379 km"}}
+{"23_9": {"address_a": "Salvador, BA", "address_b": "Florianópolis, SC", "time": "36 h", "distance": "2.665 km"}}
+{"23_10": {"address_a": "Salvador, BA", "address_b": "Fortaleza, CE", "time": "16 h 22 min", "distance": "1.180 km"}}
+{"23_11": {"address_a": "Salvador, BA", "address_b": "Goiânia, GO", "time": "21 h 3 min", "distance": "1.646 km"}}
+{"23_12": {"address_a": "Salvador, BA", "address_b": "João Pessoa, PB", "time": "13 h 41 min", "distance": "922 km"}}
+{"23_13": {"address_a": "Salvador, BA", "address_b": "Macapá, AP", "time": "54 h", "distance": "2.568 km"}}
+{"23_14": {"address_a": "Salvador, BA", "address_b": "Maceió, AL", "time": "8 h 40 min", "distance": "581 km"}}
+{"23_15": {"address_a": "Salvador, BA", "address_b": "Manaus, AM", "time": "66 h", "distance": "4.845 km"}}
+{"23_16": {"address_a": "Salvador, BA", "address_b": "Natal, RN", "time": "15 h 38 min", "distance": "1.093 km"}}
+{"23_17": {"address_a": "Salvador, BA", "address_b": "Palmas, TO", "time": "18 h 59 min", "distance": "1.438 km"}}
+{"23_18": {"address_a": "Salvador, BA", "address_b": "Porto Alegre, RS", "time": "41 h", "distance": "3.102 km"}}
+{"23_19": {"address_a": "Salvador, BA", "address_b": "Porto Velho, RO", "time": "51 h", "distance": "3.957 km"}}
+{"23_20": {"address_a": "Salvador, BA", "address_b": "Recife, PE", "time": "12 h", "distance": "809 km"}}
+{"23_21": {"address_a": "Salvador, BA", "address_b": "Rio Branco, AC", "time": "58 h", "distance": "4.463 km"}}
+{"23_22": {"address_a": "Salvador, BA", "address_b": "Rio de Janeiro, RJ", "time": "23 h 44 min", "distance": "1.633 km"}}
+{"23_24": {"address_a": "Salvador, BA", "address_b": "São Luís, MA", "time": "22 h 53 min", "distance": "1.587 km"}}
+{"23_25": {"address_a": "Salvador, BA", "address_b": "São Paulo, SP", "time": "26 h", "distance": "1.969 km"}}
+{"23_26": {"address_a": "Salvador, BA", "address_b": "Teresina, PI", "time": "16 h 9 min", "distance": "1.152 km"}}
+{"23_27": {"address_a": "Salvador, BA", "address_b": "Vitória, ES", "time": "17 h 24 min", "distance": "1.176 km"}}
+{"24_0": {"address_a": "São Luís, MA", "address_b": "Uberlândia, MG", "time": "33 h", "distance": "2.346 km"}}
+{"24_1": {"address_a": "São Luís, MA", "address_b": "Aracaju, SE", "time": "21 h 25 min", "distance": "1.552 km"}}
+{"24_2": {"address_a": "São Luís, MA", "address_b": "Belém, PA", "time": "10 h 58 min", "distance": "575 km"}}
+{"24_3": {"address_a": "São Luís, MA", "address_b": "Belo Horizonte, MG", "time": "36 h", "distance": "2.660 km"}}
+{"24_4": {"address_a": "São Luís, MA", "address_b": "Boa Vista, RR", "time": "68 h", "distance": "4.320 km"}}
+{"24_5": {"address_a": "São Luís, MA", "address_b": "Brasília, DF", "time": "28 h", "distance": "2.023 km"}}
+{"24_6": {"address_a": "São Luís, MA", "address_b": "Campo Grande, MS", "time": "38 h", "distance": "2.901 km"}}
+{"24_7": {"address_a": "São Luís, MA", "address_b": "Cuiabá, MT", "time": "36 h", "distance": "2.715 km"}}
+{"24_8": {"address_a": "São Luís, MA", "address_b": "Curitiba, PR", "time": "44 h", "distance": "3.329 km"}}
+{"24_9": {"address_a": "São Luís, MA", "address_b": "Florianópolis, SC", "time": "48 h", "distance": "3.610 km"}}
+{"24_10": {"address_a": "São Luís, MA", "address_b": "Fortaleza, CE", "time": "12 h 53 min", "distance": "899 km"}}
+{"24_11": {"address_a": "São Luís, MA", "address_b": "Goiânia, GO", "time": "28 h", "distance": "2.010 km"}}
+{"24_12": {"address_a": "São Luís, MA", "address_b": "João Pessoa, PB", "time": "21 h 27 min", "distance": "1.568 km"}}
+{"24_13": {"address_a": "São Luís, MA", "address_b": "Macapá, AP", "time": "35 h", "distance": "1.087 km"}}
+{"24_14": {"address_a": "São Luís, MA", "address_b": "Maceió, AL", "time": "22 h 41 min", "distance": "1.608 km"}}
+{"24_15": {"address_a": "São Luís, MA", "address_b": "Manaus, AM", "time": "58 h", "distance": "3.538 km"}}
+{"24_16": {"address_a": "São Luís, MA", "address_b": "Natal, RN", "time": "19 h 42 min", "distance": "1.419 km"}}
+{"24_17": {"address_a": "São Luís, MA", "address_b": "Palmas, TO", "time": "17 h 54 min", "distance": "1.249 km"}}
+{"24_18": {"address_a": "São Luís, MA", "address_b": "Porto Alegre, RS", "time": "53 h", "distance": "4.045 km"}}
+{"24_19": {"address_a": "São Luís, MA", "address_b": "Porto Velho, RO", "time": "47 h", "distance": "3.047 km"}}
+{"24_20": {"address_a": "São Luís, MA", "address_b": "Recife, PE", "time": "22 h 17 min", "distance": "1.562 km"}}
+{"24_21": {"address_a": "São Luís, MA", "address_b": "Rio Branco, AC", "time": "54 h", "distance": "3.555 km"}}
+{"24_22": {"address_a": "São Luís, MA", "address_b": "Rio de Janeiro, RJ", "time": "42 h", "distance": "3.088 km"}}
+{"24_23": {"address_a": "São Luís, MA", "address_b": "Salvador, BA", "time": "22 h 16 min", "distance": "1.586 km"}}
+{"24_25": {"address_a": "São Luís, MA", "address_b": "São Paulo, SP", "time": "40 h", "distance": "2.936 km"}}
+{"24_26": {"address_a": "São Luís, MA", "address_b": "Teresina, PI", "time": "6 h 32 min", "distance": "436 km"}}
+{"24_27": {"address_a": "São Luís, MA", "address_b": "Vitória, ES", "time": "38 h", "distance": "2.563 km"}}
+{"25_0": {"address_a": "São Paulo, SP", "address_b": "Uberlândia, MG", "time": "6 h 58 min", "distance": "589 km"}}
+{"25_1": {"address_a": "São Paulo, SP", "address_b": "Aracaju, SE", "time": "30 h", "distance": "2.160 km"}}
+{"25_2": {"address_a": "São Paulo, SP", "address_b": "Belém, PA", "time": "39 h", "distance": "2.895 km"}}
+{"25_3": {"address_a": "São Paulo, SP", "address_b": "Belo Horizonte, MG", "time": "7 h 29 min", "distance": "585 km"}}
+{"25_4": {"address_a": "São Paulo, SP", "address_b": "Boa Vista, RR", "time": "64 h", "distance": "4.661 km"}}
+{"25_5": {"address_a": "São Paulo, SP", "address_b": "Brasília, DF", "time": "12 h 18 min", "distance": "1.005 km"}}
+{"25_6": {"address_a": "São Paulo, SP", "address_b": "Campo Grande, MS", "time": "11 h 29 min", "distance": "983 km"}}
+{"25_7": {"address_a": "São Paulo, SP", "address_b": "Cuiabá, MT", "time": "19 h 50 min", "distance": "1.531 km"}}
+{"25_8": {"address_a": "São Paulo, SP", "address_b": "Curitiba, PR", "time": "5 h 31 min", "distance": "416 km"}}
+{"25_9": {"address_a": "São Paulo, SP", "address_b": "Florianópolis, SC", "time": "8 h 57 min", "distance": "697 km"}}
+{"25_10": {"address_a": "São Paulo, SP", "address_b": "Fortaleza, CE", "time": "39 h", "distance": "3.088 km"}}
+{"25_11": {"address_a": "São Paulo, SP", "address_b": "Goiânia, GO", "time": "11 h 29 min", "distance": "926 km"}}
+{"25_12": {"address_a": "São Paulo, SP", "address_b": "João Pessoa, PB", "time": "39 h", "distance": "2.756 km"}}
+{"25_13": {"address_a": "São Paulo, SP", "address_b": "Macapá, AP", "time": "63 h", "distance": "3.406 km"}}
+{"25_14": {"address_a": "São Paulo, SP", "address_b": "Maceió, AL", "time": "34 h", "distance": "2.414 km"}}
+{"25_15": {"address_a": "São Paulo, SP", "address_b": "Manaus, AM", "time": "55 h", "distance": "3.877 km"}}
+{"25_16": {"address_a": "São Paulo, SP", "address_b": "Natal, RN", "time": "41 h", "distance": "2.927 km"}}
+{"25_17": {"address_a": "São Paulo, SP", "address_b": "Palmas, TO", "time": "21 h 35 min", "distance": "1.812 km"}}
+{"25_18": {"address_a": "São Paulo, SP", "address_b": "Porto Alegre, RS", "time": "13 h 46 min", "distance": "1.132 km"}}
+{"25_19": {"address_a": "São Paulo, SP", "address_b": "Porto Velho, RO", "time": "40 h", "distance": "2.991 km"}}
+{"25_20": {"address_a": "São Paulo, SP", "address_b": "Recife, PE", "time": "37 h", "distance": "2.644 km"}}
+{"25_21": {"address_a": "São Paulo, SP", "address_b": "Rio Branco, AC", "time": "46 h", "distance": "3.496 km"}}
+{"25_22": {"address_a": "São Paulo, SP", "address_b": "Rio de Janeiro, RJ", "time": "5 h 33 min", "distance": "435 km"}}
+{"25_23": {"address_a": "São Paulo, SP", "address_b": "Salvador, BA", "time": "27 h", "distance": "1.966 km"}}
+{"25_24": {"address_a": "São Paulo, SP", "address_b": "São Luís, MA", "time": "40 h", "distance": "2.996 km"}}
+{"25_26": {"address_a": "São Paulo, SP", "address_b": "Teresina, PI", "time": "33 h", "distance": "2.651 km"}}
+{"25_27": {"address_a": "São Paulo, SP", "address_b": "Vitória, ES", "time": "12 h 59 min", "distance": "955 km"}}
+{"26_0": {"address_a": "Teresina, PI", "address_b": "Uberlândia, MG", "time": "27 h", "distance": "2.103 km"}}
+{"26_1": {"address_a": "Teresina, PI", "address_b": "Aracaju, SE", "time": "15 h 8 min", "distance": "1.118 km"}}
+{"26_2": {"address_a": "Teresina, PI", "address_b": "Belém, PA", "time": "14 h 6 min", "distance": "908 km"}}
+{"26_3": {"address_a": "Teresina, PI", "address_b": "Belo Horizonte, MG", "time": "29 h", "distance": "2.305 km"}}
+{"26_4": {"address_a": "Teresina, PI", "address_b": "Boa Vista, RR", "time": "67 h", "distance": "4.390 km"}}
+{"26_5": {"address_a": "Teresina, PI", "address_b": "Brasília, DF", "time": "21 h 14 min", "distance": "1.680 km"}}
+{"26_6": {"address_a": "Teresina, PI", "address_b": "Campo Grande, MS", "time": "35 h", "distance": "2.721 km"}}
+{"26_7": {"address_a": "Teresina, PI", "address_b": "Cuiabá, MT", "time": "33 h", "distance": "2.573 km"}}
+{"26_8": {"address_a": "Teresina, PI", "address_b": "Curitiba, PR", "time": "39 h", "distance": "3.055 km"}}
+{"26_9": {"address_a": "Teresina, PI", "address_b": "Florianópolis, SC", "time": "42 h", "distance": "3.335 km"}}
+{"26_10": {"address_a": "Teresina, PI", "address_b": "Fortaleza, CE", "time": "8 h 39 min", "distance": "604 km"}}
+{"26_11": {"address_a": "Teresina, PI", "address_b": "Goiânia, GO", "time": "24 h", "distance": "1.881 km"}}
+{"26_12": {"address_a": "Teresina, PI", "address_b": "João Pessoa, PB", "time": "16 h 23 min", "distance": "1.156 km"}}
+{"26_13": {"address_a": "Teresina, PI", "address_b": "Macapá, AP", "time": "38 h", "distance": "1.419 km"}}
+{"26_14": {"address_a": "Teresina, PI", "address_b": "Maceió, AL", "time": "16 h", "distance": "1.192 km"}}
+{"26_15": {"address_a": "Teresina, PI", "address_b": "Manaus, AM", "time": "57 h", "distance": "3.607 km"}}
+{"26_16": {"address_a": "Teresina, PI", "address_b": "Natal, RN", "time": "15 h 5 min", "distance": "1.070 km"}}
+{"26_17": {"address_a": "Teresina, PI", "address_b": "Palmas, TO", "time": "15 h 16 min", "distance": "1.107 km"}}
+{"26_18": {"address_a": "Teresina, PI", "address_b": "Porto Alegre, RS", "time": "48 h", "distance": "3.771 km"}}
+{"26_19": {"address_a": "Teresina, PI", "address_b": "Porto Velho, RO", "time": "47 h", "distance": "3.116 km"}}
+{"26_20": {"address_a": "Teresina, PI", "address_b": "Recife, PE", "time": "15 h 47 min", "distance": "1.128 km"}}
+{"26_21": {"address_a": "Teresina, PI", "address_b": "Rio Branco, AC", "time": "54 h", "distance": "3.624 km"}}
+{"26_22": {"address_a": "Teresina, PI", "address_b": "Rio de Janeiro, RJ", "time": "36 h", "distance": "2.732 km"}}
+{"26_23": {"address_a": "Teresina, PI", "address_b": "Salvador, BA", "time": "15 h 57 min", "distance": "1.152 km"}}
+{"26_24": {"address_a": "Teresina, PI", "address_b": "São Luís, MA", "time": "6 h 46 min", "distance": "436 km"}}
+{"26_25": {"address_a": "Teresina, PI", "address_b": "São Paulo, SP", "time": "34 h", "distance": "2.662 km"}}
+{"26_27": {"address_a": "Teresina, PI", "address_b": "Vitória, ES", "time": "31 h", "distance": "2.129 km"}}
+{"27_0": {"address_a": "Vitória, ES", "address_b": "Uberlândia, MG", "time": "14 h 57 min", "distance": "1.048 km"}}
+{"27_1": {"address_a": "Vitória, ES", "address_b": "Aracaju, SE", "time": "20 h 46 min", "distance": "1.369 km"}}
+{"27_2": {"address_a": "Vitória, ES", "address_b": "Belém, PA", "time": "44 h", "distance": "3.255 km"}}
+{"27_3": {"address_a": "Vitória, ES", "address_b": "Belo Horizonte, MG", "time": "8 h 13 min", "distance": "515 km"}}
+{"27_4": {"address_a": "Vitória, ES", "address_b": "Boa Vista, RR", "time": "73 h", "distance": "5.212 km"}}
+{"27_5": {"address_a": "Vitória, ES", "address_b": "Brasília, DF", "time": "17 h 10 min", "distance": "1.242 km"}}
+{"27_6": {"address_a": "Vitória, ES", "address_b": "Campo Grande, MS", "time": "23 h 7 min", "distance": "1.923 km"}}
+{"27_7": {"address_a": "Vitória, ES", "address_b": "Cuiabá, MT", "time": "29 h", "distance": "2.082 km"}}
+{"27_8": {"address_a": "Vitória, ES", "address_b": "Curitiba, PR", "time": "17 h 23 min", "distance": "1.368 km"}}
+{"27_9": {"address_a": "Vitória, ES", "address_b": "Florianópolis, SC", "time": "21 h 8 min", "distance": "1.648 km"}}
+{"27_10": {"address_a": "Vitória, ES", "address_b": "Fortaleza, CE", "time": "32 h", "distance": "2.163 km"}}
+{"27_11": {"address_a": "Vitória, ES", "address_b": "Goiânia, GO", "time": "19 h 5 min", "distance": "1.385 km"}}
+{"27_12": {"address_a": "Vitória, ES", "address_b": "João Pessoa, PB", "time": "29 h", "distance": "1.965 km"}}
+{"27_13": {"address_a": "Vitória, ES", "address_b": "Macapá, AP", "time": "68 h", "distance": "3.766 km"}}
+{"27_14": {"address_a": "Vitória, ES", "address_b": "Maceió, AL", "time": "24 h", "distance": "1.623 km"}}
+{"27_15": {"address_a": "Vitória, ES", "address_b": "Manaus, AM", "time": "63 h", "distance": "4.429 km"}}
+{"27_16": {"address_a": "Vitória, ES", "address_b": "Natal, RN", "time": "32 h", "distance": "2.136 km"}}
+{"27_17": {"address_a": "Vitória, ES", "address_b": "Palmas, TO", "time": "26 h", "distance": "2.049 km"}}
+{"27_18": {"address_a": "Vitória, ES", "address_b": "Porto Alegre, RS", "time": "26 h", "distance": "2.084 km"}}
+{"27_19": {"address_a": "Vitória, ES", "address_b": "Porto Velho, RO", "time": "48 h", "distance": "3.542 km"}}
+{"27_20": {"address_a": "Vitória, ES", "address_b": "Recife, PE", "time": "28 h", "distance": "1.852 km"}}
+{"27_21": {"address_a": "Vitória, ES", "address_b": "Rio Branco, AC", "time": "54 h", "distance": "4.047 km"}}
+{"27_22": {"address_a": "Vitória, ES", "address_b": "Rio de Janeiro, RJ", "time": "7 h 2 min", "distance": "518 km"}}
+{"27_23": {"address_a": "Vitória, ES", "address_b": "Salvador, BA", "time": "17 h 40 min", "distance": "1.175 km"}}
+{"27_24": {"address_a": "Vitória, ES", "address_b": "São Luís, MA", "time": "38 h", "distance": "2.570 km"}}
+{"27_25": {"address_a": "Vitória, ES", "address_b": "São Paulo, SP", "time": "12 h 27 min", "distance": "946 km"}}
+{"27_26": {"address_a": "Vitória, ES", "address_b": "Teresina, PI", "time": "32 h", "distance": "2.135 km"}}

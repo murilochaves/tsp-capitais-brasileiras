@@ -1,0 +1,27 @@
+aracaju, se
+belém, pa
+belo horizonte, mg
+boa vista, rr
+brasília, df
+campo grande, ms
+cuiabá, mt
+curitiba, pr
+florianópolis, sc
+fortaleza, ce
+goiânia, go
+joão pessoa, pb
+macapá, ap
+maceió, al
+manaus, am
+natal, rn
+palmas, to
+porto alegre, rs
+porto velho, ro
+recife, pe
+rio branco, ac
+rio de janeiro, rj
+salvador, ba
+são luís, ma
+são paulo, sp
+teresina, pi
+vitória, es
